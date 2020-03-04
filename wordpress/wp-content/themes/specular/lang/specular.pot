@@ -1,0 +1,5331 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Specular\n"
+"POT-Creation-Date: 2019-05-22 18:16+0200\n"
+"PO-Revision-Date: 2019-05-22 18:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: envato-setup/envato_setup.php:320 envato-setup/envato_setup.php:322
+msgid "Setup Wizard"
+msgstr ""
+
+#: envato-setup/envato_setup.php:339
+msgid "Introduction"
+msgstr ""
+
+#: envato-setup/envato_setup.php:346
+msgid "Plugins"
+msgstr ""
+
+#: envato-setup/envato_setup.php:357
+#: includes/codeless-slider/codeless_slider_options.php:83
+#: includes/core/codeless_elements.php:1737
+#: includes/core/codeless_elements.php:2125
+#: includes/core/codeless_elements.php:2348
+#: includes/core/codeless_elements.php:2470
+#: includes/core/codeless_elements.php:5331
+msgid "Content"
+msgstr ""
+
+#: envato-setup/envato_setup.php:362
+msgid "Logo & Design"
+msgstr ""
+
+#: envato-setup/envato_setup.php:367
+msgid "Customize"
+msgstr ""
+
+#: envato-setup/envato_setup.php:372
+msgid "Support"
+msgstr ""
+
+#: envato-setup/envato_setup.php:377
+msgid "Ready!"
+msgstr ""
+
+#: envato-setup/envato_setup.php:408
+msgid "...verifying"
+msgstr ""
+
+#: envato-setup/envato_setup.php:486
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: envato-setup/envato_setup.php:685 envato-setup/envato_setup.php:696
+#: envato-setup/envato_setup.php:720
+#, php-format
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: envato-setup/envato_setup.php:686
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+
+#: envato-setup/envato_setup.php:689 envato-setup/envato_setup.php:736
+msgid "Let's Go!"
+msgstr ""
+
+#: envato-setup/envato_setup.php:691 envato-setup/envato_setup.php:738
+msgid "Not right now"
+msgstr ""
+
+#: envato-setup/envato_setup.php:697
+msgid ""
+"It looks like you have already run the setup wizard. Below are some options: "
+msgstr ""
+
+#: envato-setup/envato_setup.php:701
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: envato-setup/envato_setup.php:706
+msgid "Reset font style and colors"
+msgstr ""
+
+#: envato-setup/envato_setup.php:715 includes/core/codeless_megamenu.php:740
+msgid "Cancel"
+msgstr ""
+
+#: envato-setup/envato_setup.php:721
+#, php-format
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. <br/>It should only take 5 minutes."
+msgstr ""
+
+#: envato-setup/envato_setup.php:722
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: envato-setup/envato_setup.php:724
+msgid "Warning ! Read Me"
+msgstr ""
+
+#: envato-setup/envato_setup.php:845
+msgid "Default Plugins"
+msgstr ""
+
+#: envato-setup/envato_setup.php:852
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+
+#: envato-setup/envato_setup.php:871
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: envato-setup/envato_setup.php:874
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: envato-setup/envato_setup.php:877 envato-setup/envato_setup.php:1130
+#: envato-setup/envato_setup.php:2088 envato-setup/envato_setup.php:2169
+#: envato-setup/envato_setup.php:2225
+msgid "Continue"
+msgstr ""
+
+#: envato-setup/envato_setup.php:878 envato-setup/envato_setup.php:1131
+#: envato-setup/envato_setup.php:2089 envato-setup/envato_setup.php:2181
+msgid "Skip this step"
+msgstr ""
+
+#: envato-setup/envato_setup.php:888
+msgid "No Slug Found"
+msgstr ""
+
+#: envato-setup/envato_setup.php:904
+msgid "Activating Plugin"
+msgstr ""
+
+#: envato-setup/envato_setup.php:919
+msgid "Updating Plugin"
+msgstr ""
+
+#: envato-setup/envato_setup.php:934
+msgid "Installing Plugin"
+msgstr ""
+
+#: envato-setup/envato_setup.php:944
+msgid "Success"
+msgstr ""
+
+#: envato-setup/envato_setup.php:973
+#, php-format
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: envato-setup/envato_setup.php:974 envato-setup/envato_setup.php:986
+#: envato-setup/envato_setup.php:998 envato-setup/envato_setup.php:1012
+#: envato-setup/envato_setup.php:1023 envato-setup/envato_setup.php:1034
+#: envato-setup/envato_setup.php:1044
+msgid "Pending."
+msgstr ""
+
+#: envato-setup/envato_setup.php:975
+msgid "Installing."
+msgstr ""
+
+#: envato-setup/envato_setup.php:976 envato-setup/envato_setup.php:988
+#: envato-setup/envato_setup.php:1000 envato-setup/envato_setup.php:1014
+#: envato-setup/envato_setup.php:1025 envato-setup/envato_setup.php:1036
+#: envato-setup/envato_setup.php:1046
+msgid "Success."
+msgstr ""
+
+#: envato-setup/envato_setup.php:984
+msgid "Widgets"
+msgstr ""
+
+#: envato-setup/envato_setup.php:985
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: envato-setup/envato_setup.php:987
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: envato-setup/envato_setup.php:996 includes/core/codeless_metaboxes.php:523
+msgid "Revolution Slider"
+msgstr ""
+
+#: envato-setup/envato_setup.php:997
+msgid "Install Revolution Sliders."
+msgstr ""
+
+#: envato-setup/envato_setup.php:999
+msgid "Installing Revolution Sliders... "
+msgstr ""
+
+#: envato-setup/envato_setup.php:1010
+msgid "Install Images"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1011
+msgid "Install Img and attachments"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1013
+msgid "Installing attachments."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1021
+msgid "Install Content"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1022
+msgid "Install Content of the Demo."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1024
+msgid "Installing Demo."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1032
+msgid "Theme Option"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1033
+msgid "Configure default settings."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1035
+msgid "Installing Default Settings."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1042
+msgid "Menu"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1043
+msgid "Insert default menu as seen in the demo."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1045
+msgid "Installing Default Menu."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1080
+msgid "Choose one demo to be installed"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1083
+msgid ""
+"It looks like you already have content installed on this website. If you "
+"would like to install the default demo content as well you can select it "
+"below. Otherwise just choose the upgrade option to ensure everything is up "
+"to date."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1085
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue. It is "
+"recommended to leave everything selected. Once inserted, this content can be "
+"managed from the WordPress admin dashboard. "
+msgstr ""
+
+#: envato-setup/envato_setup.php:1093
+msgid "Item"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1094
+#: includes/codeless-slider/codeless_slider_options.php:152
+#: includes/core/codeless_elements.php:465
+#: includes/core/codeless_elements.php:2709
+#: includes/core/codeless_megamenu.php:642
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1095
+#: plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1142
+msgid "No content Found"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1195
+msgid "Error"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1669
+#: envato-setup/importer/wordpress-importer.php:1007
+msgid "Remote server did not respond"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1678
+#: envato-setup/importer/wordpress-importer.php:1022
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1684
+#: envato-setup/importer/wordpress-importer.php:1027
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1690
+#: envato-setup/importer/wordpress-importer.php:1033
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1716
+msgid "Widgets Imported !"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1719 envato-setup/envato_setup.php:1855
+msgid "Your backup or demo doesn't contain sidebar_widgets.txt file."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1852
+msgid "Menu Imported successfully"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1917
+msgid "Options imported successfully"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1920
+msgid "Your backup doesn't contain options.txt file."
+msgstr ""
+
+#: envato-setup/envato_setup.php:1970
+msgid "Error during Import. Try Again"
+msgstr ""
+
+#: envato-setup/envato_setup.php:1975
+msgid "Content has been imported successfully "
+msgstr ""
+
+#: envato-setup/envato_setup.php:2026
+msgid "Logo &amp; Design"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2028
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 466 by 277 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: envato-setup/envato_setup.php:2050
+msgid "Upload New Logo"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2062
+msgid ""
+"Please choose the color scheme for this website. The color scheme (along "
+"with font colors &amp; styles) can be changed at any time from the "
+"Appearance > Customize area in your dashboard."
+msgstr ""
+
+#: envato-setup/envato_setup.php:2141
+msgid "Theme Updates"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2174
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+
+#: envato-setup/envato_setup.php:2180
+msgid "Login with Envato"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2250
+msgid "Agree and Continue"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2266
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2273
+msgid "Next Steps"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2275
+msgid "Follow @codelessthemes on Twitter"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2276
+msgid "View your new website!"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2280
+msgid "More Resources"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2282
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2283
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2284
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2285
+msgid "Get Help and Support"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2343
+#, php-format
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2360
+#, php-format
+msgid "Login for %s updates"
+msgstr ""
+
+#: envato-setup/envato_setup.php:2367
+msgid "oAuth Login"
+msgstr ""
+
+#: envato-setup/importer/parsers.php:42 envato-setup/importer/parsers.php:72
+#: envato-setup/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: envato-setup/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: envato-setup/importer/parsers.php:84 envato-setup/importer/parsers.php:89
+#: envato-setup/importer/parsers.php:306 envato-setup/importer/parsers.php:491
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:132
+#: envato-setup/importer/wordpress-importer.php:141
+#: envato-setup/importer/wordpress-importer.php:192
+#: envato-setup/importer/wordpress-importer.php:196
+#: envato-setup/importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:516
+#: envato-setup/importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:870
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:877
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:944
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:957
+msgid "Invalid file type"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:1015
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:1132
+msgid "Import WordPress"
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:1139
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:1154
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:1155
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: envato-setup/importer/wordpress-importer.php:1230
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: functions-specular.php:8
+msgid "About"
+msgstr ""
+
+#: functions-specular.php:42 includes/core/codeless_elements.php:1655
+#: includes/core/codeless_elements.php:2043
+#: includes/core/codeless_elements.php:2266
+#: includes/register/register_sidebars.php:89 sidebar.php:36
+msgid "Page"
+msgstr ""
+
+#: functions-specular.php:42
+msgid "of"
+msgstr ""
+
+#: functions-specular.php:79
+msgid "End of content"
+msgstr ""
+
+#: functions-specular.php:80
+msgid "No more pages to load"
+msgstr ""
+
+#: functions-specular.php:86
+msgid "Load More"
+msgstr ""
+
+#: functions-specular.php:110 includes/view/page_header.php:76
+msgid "Home"
+msgstr ""
+
+#: functions-specular.php:564 includes/core/codeless_elements.php:4588
+msgid "None"
+msgstr ""
+
+#: functions-woocommerce.php:171 includes/view/woocommerce-cart.php:10
+msgid "Cart is empty"
+msgstr ""
+
+#: functions-woocommerce.php:174 functions-woocommerce.php:226
+#: includes/view/woocommerce-cart.php:13 includes/view/woocommerce-cart.php:63
+msgid "View Cart"
+msgstr ""
+
+#: functions-woocommerce.php:177 functions-woocommerce.php:229
+#: includes/view/woocommerce-cart.php:16 includes/view/woocommerce-cart.php:66
+msgid "Subtotal:"
+msgstr ""
+
+#: functions.php:172
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:175
+msgid "In left side of logo"
+msgstr ""
+
+#: functions.php:175
+msgid "In right side of logo"
+msgstr ""
+
+#: functions.php:317
+msgid "Default (Main Theme Location)"
+msgstr ""
+
+#: header.php:307 includes/register/register_sidebars.php:164
+msgid "After Navigation Area"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider.php:50
+#: includes/core/codeless_slideshow.php:191
+#: includes/core/codeless_slideshow.php:299
+msgid "PREV"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider.php:54
+#: includes/core/codeless_slideshow.php:195
+#: includes/core/codeless_slideshow.php:303
+msgid "NEXT"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider.php:122
+#: includes/core/codeless_slideshow.php:282
+msgid "Slider Image"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:13
+#: includes/core/codeless_options.php:485
+#: includes/core/codeless_options.php:1138
+msgid "Background"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:19
+msgid "Background Type"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:29
+msgid "Background Image / Color"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:30
+msgid "Page Header background with image"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:38
+msgid "MP4 video Url"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:46
+msgid "Webm video Url"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:54
+msgid "OGG video Url"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:62
+msgid "Image to replace video on mobile"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:70
+msgid "Background Color Overlay"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:71
+msgid "Use a bg overlay"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:91
+#: includes/core/codeless_elements.php:355
+#: includes/core/codeless_elements.php:1298
+#: includes/core/codeless_elements.php:2854
+#: includes/core/codeless_elements.php:3293
+#: includes/core/codeless_elements.php:4361
+#: includes/core/codeless_elements.php:4647
+msgid "Title"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:97
+msgid "Title Style"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:120
+msgid "Title Background"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:134
+msgid "Title Padding"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:135
+msgid " "
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:136
+#: includes/core/codeless_options.php:394
+#: includes/core/codeless_options.php:411
+#: includes/core/codeless_options.php:647
+#: includes/core/codeless_options.php:667
+#: includes/core/codeless_options.php:1634
+#: includes/core/codeless_options.php:1652
+msgid "Unit: px"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:142
+msgid "Title animation"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:158
+msgid "Description Style"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:178
+msgid "Description animation"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:188
+msgid "Image On Top"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:189
+msgid "Add an image on top of texts"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:197
+msgid "Image Media w/ URL"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:206
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:218
+msgid "Image Dimensions (Width/Height)"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:229
+#: includes/codeless-slider/codeless_slider_options.php:251
+msgid "Button Label"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:230
+msgid "First Button Label & Link"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:236
+#: includes/codeless-slider/codeless_slider_options.php:258
+#: includes/core/codeless_elements.php:1400
+msgid "Button Link"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:241
+#: includes/codeless-slider/codeless_slider_options.php:263
+msgid "Button Style"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:252
+msgid ""
+"Second Button Label & Link (Leave Blank if you want to use only one button)"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:272
+msgid "Overall Buttons Colors"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:283
+#: includes/core/codeless_metaboxes.php:305
+#: includes/core/codeless_options.php:812
+#: includes/core/codeless_options.php:2740
+#: includes/core/codeless_options.php:2852
+msgid "Layout"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:289
+#: includes/core/codeless_metaboxes.php:46
+#: includes/core/codeless_metaboxes.php:55
+msgid "Content Position"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:302
+msgid "Content custom absolute position"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:303
+msgid "Add absolute positioning"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:304
+msgid ""
+"In case you select vertical centered, top and bottom positions are fixed. "
+"The same for horizontal centered, left and right are fixed. Them are not "
+"considerated. If you want to use only absolute positions (Left, Right, Top, "
+"Bottom) select \"Use only absolute position\" "
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:316
+msgid "Content Width"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:317
+msgid "Examples: auto, 100px, 50%"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:324
+msgid "Remove Site Container from slider"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:325
+msgid ""
+"By switching this you can remove the slider container and the content should "
+"be shown from the left to the right of the screen."
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:332
+msgid "Menu & Slider Navigation Color"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:333
+msgid ""
+"Select Light for light colors in header, white logo and light slider nav"
+msgstr ""
+
+#: includes/codeless-slider/codeless_slider_options.php:348
+msgid "Codeless Slide Options"
+msgstr ""
+
+#: includes/content-blocks.php:5
+msgid "Specular Templates"
+msgstr ""
+
+#: includes/content-blocks.php:6
+msgid "Append predefined Specular Templates to the actual layout"
+msgstr ""
+
+#: includes/content-blocks.php:29
+msgid "All"
+msgstr ""
+
+#: includes/content-blocks.php:70
+msgid "Block"
+msgstr ""
+
+#: includes/content-blocks.php:71
+msgid "Blog"
+msgstr ""
+
+#: includes/content-blocks.php:72
+msgid "Call to Action"
+msgstr ""
+
+#: includes/content-blocks.php:73
+msgid "Contact"
+msgstr ""
+
+#: includes/content-blocks.php:74
+msgid "Counter"
+msgstr ""
+
+#: includes/content-blocks.php:75 includes/content-blocks.php:1293
+#: includes/core/codeless_elements.php:3215
+#: includes/core/codeless_options.php:3040
+msgid "Clients"
+msgstr ""
+
+#: includes/content-blocks.php:76 includes/content-blocks.php:1076
+#: includes/core/codeless_elements.php:3154
+msgid "FAQ"
+msgstr ""
+
+#: includes/content-blocks.php:77 includes/core/codeless_elements.php:692
+#: includes/core/codeless_metaboxes.php:174
+msgid "Grid"
+msgstr ""
+
+#: includes/content-blocks.php:78 includes/core/codeless_options.php:3200
+msgid "Gallery"
+msgstr ""
+
+#: includes/content-blocks.php:79 includes/core/codeless_options.php:3194
+msgid "Portfolio"
+msgstr ""
+
+#: includes/content-blocks.php:80 includes/core/codeless_elements.php:3275
+msgid "Price List"
+msgstr ""
+
+#: includes/content-blocks.php:81
+msgid "Services"
+msgstr ""
+
+#: includes/content-blocks.php:82 includes/core/codeless_elements.php:2814
+msgid "Skills"
+msgstr ""
+
+#: includes/content-blocks.php:83
+msgid "Testimonial"
+msgstr ""
+
+#: includes/content-blocks.php:84
+msgid "Team"
+msgstr ""
+
+#: includes/content-blocks.php:85
+msgid "Tabs"
+msgstr ""
+
+#: includes/content-blocks.php:86
+msgid "Toggles"
+msgstr ""
+
+#: includes/content-blocks.php:98
+msgid "Fullwidth Block with Image and Text"
+msgstr ""
+
+#: includes/content-blocks.php:108
+msgid "Services Image and Title"
+msgstr ""
+
+#: includes/content-blocks.php:118
+msgid "Booking Block"
+msgstr ""
+
+#: includes/content-blocks.php:130
+msgid "Block with Toggles and Image"
+msgstr ""
+
+#: includes/content-blocks.php:140
+msgid "Block Hotel Rooms"
+msgstr ""
+
+#: includes/content-blocks.php:150
+msgid "Block with List/Button/Image"
+msgstr ""
+
+#: includes/content-blocks.php:160
+msgid "Block with Toggles and List"
+msgstr ""
+
+#: includes/content-blocks.php:170
+msgid "Block with Image Gallery"
+msgstr ""
+
+#: includes/content-blocks.php:180 includes/content-blocks.php:691
+msgid "Counters Block"
+msgstr ""
+
+#: includes/content-blocks.php:190
+msgid "6 Services with Image Icon Block"
+msgstr ""
+
+#: includes/content-blocks.php:214
+msgid "Block Content with Image"
+msgstr ""
+
+#: includes/content-blocks.php:226
+msgid "Services Block with Image and white bg"
+msgstr ""
+
+#: includes/content-blocks.php:245
+msgid "Block with Image and Text/List"
+msgstr ""
+
+#: includes/content-blocks.php:257 includes/content-blocks.php:269
+msgid "Two Images and Text Columns"
+msgstr ""
+
+#: includes/content-blocks.php:285
+msgid "Block Events and Recent News"
+msgstr ""
+
+#: includes/content-blocks.php:295
+msgid "Block with Services Media"
+msgstr ""
+
+#: includes/content-blocks.php:305
+msgid "Services Circle with Image"
+msgstr ""
+
+#: includes/content-blocks.php:315 includes/content-blocks.php:518
+#: includes/content-blocks.php:1059
+msgid "Contact Block"
+msgstr ""
+
+#: includes/content-blocks.php:332
+msgid "Block with Text and Social Icons"
+msgstr ""
+
+#: includes/content-blocks.php:344
+msgid "Block With Button & Image"
+msgstr ""
+
+#: includes/content-blocks.php:357
+msgid "Contact Block Minimal"
+msgstr ""
+
+#: includes/content-blocks.php:375
+msgid "Services only Text"
+msgstr ""
+
+#: includes/content-blocks.php:391
+msgid "Minimal Call To Action"
+msgstr ""
+
+#: includes/content-blocks.php:401
+msgid "Block with Blog Recent"
+msgstr ""
+
+#: includes/content-blocks.php:411 includes/content-blocks.php:478
+msgid "Services with Image"
+msgstr ""
+
+#: includes/content-blocks.php:421
+msgid "About Me Block"
+msgstr ""
+
+#: includes/content-blocks.php:433
+msgid "Services Media"
+msgstr ""
+
+#: includes/content-blocks.php:443
+msgid "Block Fullwidth with Services and Text"
+msgstr ""
+
+#: includes/content-blocks.php:453 includes/content-blocks.php:649
+#: includes/content-blocks.php:1030
+msgid "Block with Image"
+msgstr ""
+
+#: includes/content-blocks.php:464
+msgid "Block with Image Box CTA"
+msgstr ""
+
+#: includes/content-blocks.php:488
+msgid "Services Small and Toggles"
+msgstr ""
+
+#: includes/content-blocks.php:498
+msgid "Block with Image and List"
+msgstr ""
+
+#: includes/content-blocks.php:508
+msgid "Services Colored Transparent"
+msgstr ""
+
+#: includes/content-blocks.php:534
+msgid "Call To Action with Border"
+msgstr ""
+
+#: includes/content-blocks.php:544 includes/content-blocks.php:1086
+msgid "Services Circle with Border"
+msgstr ""
+
+#: includes/content-blocks.php:554
+msgid "Price List and Counter"
+msgstr ""
+
+#: includes/content-blocks.php:564
+msgid "Image and Services Small"
+msgstr ""
+
+#: includes/content-blocks.php:574
+msgid "Block List with Image"
+msgstr ""
+
+#: includes/content-blocks.php:586
+msgid "Block with Services Circle Color"
+msgstr ""
+
+#: includes/content-blocks.php:596
+msgid "Blog Masonry"
+msgstr ""
+
+#: includes/content-blocks.php:607
+msgid "Block with Image and Services Small"
+msgstr ""
+
+#: includes/content-blocks.php:618
+msgid "CTA Dark"
+msgstr ""
+
+#: includes/content-blocks.php:628
+msgid "Block CTA with Arrow Top"
+msgstr ""
+
+#: includes/content-blocks.php:638
+msgid "Block Section with Arrow Bottom"
+msgstr ""
+
+#: includes/content-blocks.php:660
+msgid "Block with Image and 2 Buttons"
+msgstr ""
+
+#: includes/content-blocks.php:670
+msgid "Chart Skills"
+msgstr ""
+
+#: includes/content-blocks.php:680 includes/content-blocks.php:1191
+msgid "Block with Skills and Text"
+msgstr ""
+
+#: includes/content-blocks.php:701
+msgid "Blog without Image"
+msgstr ""
+
+#: includes/content-blocks.php:711
+msgid "Portfolio Grid"
+msgstr ""
+
+#: includes/content-blocks.php:721
+msgid "Services Small"
+msgstr ""
+
+#: includes/content-blocks.php:731
+msgid "Pricelist"
+msgstr ""
+
+#: includes/content-blocks.php:741
+msgid "Image & Skills"
+msgstr ""
+
+#: includes/content-blocks.php:753
+msgid "Recent news and Lists"
+msgstr ""
+
+#: includes/content-blocks.php:763 includes/content-blocks.php:1201
+msgid "Services Only Icon"
+msgstr ""
+
+#: includes/content-blocks.php:773
+msgid "Services Circle Color"
+msgstr ""
+
+#: includes/content-blocks.php:783
+msgid "Price List Block"
+msgstr ""
+
+#: includes/content-blocks.php:794
+msgid "Call To Action Boxed"
+msgstr ""
+
+#: includes/content-blocks.php:804 includes/content-blocks.php:1324
+msgid "Services Small Block"
+msgstr ""
+
+#: includes/content-blocks.php:815
+msgid "Team with Title Border"
+msgstr ""
+
+#: includes/content-blocks.php:825
+msgid "Skills with Text Column"
+msgstr ""
+
+#: includes/content-blocks.php:837
+msgid "Clients with Title Border"
+msgstr ""
+
+#: includes/content-blocks.php:847
+msgid "Toggles Recent News Testimonial"
+msgstr ""
+
+#: includes/content-blocks.php:857
+msgid "Services Circle Border Block"
+msgstr ""
+
+#: includes/content-blocks.php:868
+msgid "Block with Skills and Toggles"
+msgstr ""
+
+#: includes/content-blocks.php:881
+msgid "Block with Text and Tabs"
+msgstr ""
+
+#: includes/content-blocks.php:895
+msgid "Services and Toggles"
+msgstr ""
+
+#: includes/content-blocks.php:905
+msgid "Block with Text, list & Image"
+msgstr ""
+
+#: includes/content-blocks.php:915
+msgid "Block with Text and List"
+msgstr ""
+
+#: includes/content-blocks.php:929
+msgid "Services Media Grid"
+msgstr ""
+
+#: includes/content-blocks.php:939
+msgid "Services Small and Image Block"
+msgstr ""
+
+#: includes/content-blocks.php:949 includes/content-blocks.php:1010
+#: includes/content-blocks.php:1272
+msgid "Portfolio Grid Block"
+msgstr ""
+
+#: includes/content-blocks.php:959
+msgid "Services Small with Color"
+msgstr ""
+
+#: includes/content-blocks.php:969
+msgid "Block Text and List"
+msgstr ""
+
+#: includes/content-blocks.php:979
+msgid "Services Circle Block"
+msgstr ""
+
+#: includes/content-blocks.php:990
+msgid "Counters Fullwidth with Colors Block"
+msgstr ""
+
+#: includes/content-blocks.php:1000
+msgid "Call To Action"
+msgstr ""
+
+#: includes/content-blocks.php:1020
+msgid "Services Circle White BG"
+msgstr ""
+
+#: includes/content-blocks.php:1042
+msgid "Contact Block 2"
+msgstr ""
+
+#: includes/content-blocks.php:1097
+msgid "Fullwidth Block Half text/Half Image"
+msgstr ""
+
+#: includes/content-blocks.php:1109
+msgid "Counter Block Dark"
+msgstr ""
+
+#: includes/content-blocks.php:1119
+msgid "Services Small Block Fullwidth"
+msgstr ""
+
+#: includes/content-blocks.php:1131
+msgid "Skills Block Dark"
+msgstr ""
+
+#: includes/content-blocks.php:1141
+msgid "Team Fullwidth Block"
+msgstr ""
+
+#: includes/content-blocks.php:1151
+msgid "Team Block"
+msgstr ""
+
+#: includes/content-blocks.php:1161
+msgid "Block with Lists"
+msgstr ""
+
+#: includes/content-blocks.php:1171
+msgid "Blog Modern Inline"
+msgstr ""
+
+#: includes/content-blocks.php:1181
+msgid "Services Media Block"
+msgstr ""
+
+#: includes/content-blocks.php:1211
+msgid "Fullwidth Block with Texts and BG Color"
+msgstr ""
+
+#: includes/content-blocks.php:1221
+msgid "Block with Lists and Image"
+msgstr ""
+
+#: includes/content-blocks.php:1232
+msgid "Services Square"
+msgstr ""
+
+#: includes/content-blocks.php:1242
+msgid "Clients Call to Action Block"
+msgstr ""
+
+#: includes/content-blocks.php:1252
+msgid "Testimonial Block"
+msgstr ""
+
+#: includes/content-blocks.php:1262
+msgid "Counter Dark"
+msgstr ""
+
+#: includes/content-blocks.php:1283
+msgid "Services Small Block 2"
+msgstr ""
+
+#: includes/content-blocks.php:1303
+msgid "Testimonial 1"
+msgstr ""
+
+#: includes/content-blocks.php:1313
+msgid "Blog Grid"
+msgstr ""
+
+#: includes/content-blocks.php:1335
+msgid "Content Block with Image 2"
+msgstr ""
+
+#: includes/content-blocks.php:1349
+msgid "Counter 1"
+msgstr ""
+
+#: includes/content-blocks.php:1360
+msgid "Content Block with Image"
+msgstr ""
+
+#: includes/content-blocks.php:1373
+msgid "Portfolio Grid & Call To Action"
+msgstr ""
+
+#: includes/content-blocks.php:1385
+msgid "Services Circle"
+msgstr ""
+
+#: includes/core/codeless_config.php:49 includes/core/codeless_options.php:224
+msgid ""
+"Sorry but the page you are looking for has not been found. Try checking the "
+"URL for errors, then hit the refresh button on your browser"
+msgstr ""
+
+#: includes/core/codeless_config.php:93 includes/core/codeless_options.php:525
+msgid "Donate Now"
+msgstr ""
+
+#: includes/core/codeless_config.php:646
+#: includes/core/codeless_metaboxes.php:433
+msgid "A sample page description"
+msgstr ""
+
+#: includes/core/codeless_elements.php:323
+msgid "Title Heading"
+msgstr ""
+
+#: includes/core/codeless_elements.php:325
+msgid "Block title heading, section and column"
+msgstr ""
+
+#: includes/core/codeless_elements.php:336
+#: plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: includes/core/codeless_elements.php:346
+msgid "Section Title (Centered)"
+msgstr ""
+
+#: includes/core/codeless_elements.php:347
+msgid "Column Title (Left Aligned)"
+msgstr ""
+
+#: includes/core/codeless_elements.php:367
+msgid "Second Title"
+msgstr ""
+
+#: includes/core/codeless_elements.php:395
+#: includes/core/codeless_elements.php:429
+#: includes/core/codeless_elements.php:1014
+#: includes/core/codeless_elements.php:1256
+#: includes/core/codeless_elements.php:1316
+#: includes/core/codeless_elements.php:2685
+#: includes/core/codeless_elements.php:3056
+#: includes/core/codeless_elements.php:3166
+#: includes/core/codeless_elements.php:3479
+msgid "Style"
+msgstr ""
+
+#: includes/core/codeless_elements.php:405
+#: includes/core/codeless_elements.php:3489
+#: includes/core/codeless_metaboxes.php:541
+msgid "Simple"
+msgstr ""
+
+#: includes/core/codeless_elements.php:406
+msgid "With Inline border"
+msgstr ""
+
+#: includes/core/codeless_elements.php:439
+msgid "With Square and two lateral borders"
+msgstr ""
+
+#: includes/core/codeless_elements.php:441
+msgid "Simple Only text"
+msgstr ""
+
+#: includes/core/codeless_elements.php:493
+msgid "Padding Description"
+msgstr ""
+
+#: includes/core/codeless_elements.php:522
+#: includes/core/codeless_elements.php:536
+#: includes/core/codeless_elements.php:876
+#: includes/core/codeless_elements.php:1044
+#: includes/core/codeless_elements.php:1161
+#: includes/core/codeless_elements.php:1274
+#: includes/core/codeless_elements.php:1466
+#: includes/core/codeless_elements.php:1823
+#: includes/core/codeless_elements.php:2189
+#: includes/core/codeless_elements.php:2412
+#: includes/core/codeless_elements.php:2484
+#: includes/core/codeless_elements.php:2742
+#: includes/core/codeless_elements.php:2806
+#: includes/core/codeless_elements.php:2826
+#: includes/core/codeless_elements.php:2890
+#: includes/core/codeless_elements.php:2928
+#: includes/core/codeless_elements.php:2980
+#: includes/core/codeless_elements.php:3018
+#: includes/core/codeless_elements.php:3072
+#: includes/core/codeless_elements.php:3146
+#: includes/core/codeless_elements.php:3206
+#: includes/core/codeless_elements.php:3267
+#: includes/core/codeless_elements.php:3412
+#: includes/core/codeless_elements.php:3431
+#: includes/core/codeless_elements.php:3562
+#: includes/core/codeless_elements.php:3628
+#: includes/core/codeless_elements.php:3721
+#: includes/core/codeless_elements.php:4407
+#: includes/core/codeless_elements.php:4626
+#: includes/core/codeless_elements.php:4830
+#: includes/core/codeless_elements.php:5090
+msgid "Codeless Elements"
+msgstr ""
+
+#: includes/core/codeless_elements.php:530
+msgid "Separator"
+msgstr ""
+
+#: includes/core/codeless_elements.php:534
+msgid "Create a custom separator"
+msgstr ""
+
+#: includes/core/codeless_elements.php:542
+msgid "Width"
+msgstr ""
+
+#: includes/core/codeless_elements.php:556
+msgid "Height"
+msgstr ""
+
+#: includes/core/codeless_elements.php:570
+msgid "Position"
+msgstr ""
+
+#: includes/core/codeless_elements.php:580
+#: includes/core/codeless_elements.php:1811
+#: includes/core/codeless_elements.php:4526
+#: includes/core/codeless_elements.php:4580
+#: includes/core/codeless_elements.php:4726
+#: includes/core/codeless_metaboxes.php:49
+#: includes/core/codeless_metaboxes.php:58
+#: includes/core/codeless_metaboxes.php:952
+msgid "Left"
+msgstr ""
+
+#: includes/core/codeless_elements.php:582
+#: includes/core/codeless_elements.php:4730
+msgid "Center"
+msgstr ""
+
+#: includes/core/codeless_elements.php:584
+#: includes/core/codeless_elements.php:1813
+#: includes/core/codeless_elements.php:4530
+#: includes/core/codeless_elements.php:4582
+#: includes/core/codeless_elements.php:4728
+#: includes/core/codeless_metaboxes.php:49
+#: includes/core/codeless_metaboxes.php:58
+#: includes/core/codeless_metaboxes.php:952
+msgid "Right"
+msgstr ""
+
+#: includes/core/codeless_elements.php:606
+msgid "Margin Top"
+msgstr ""
+
+#: includes/core/codeless_elements.php:620
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/core/codeless_elements.php:638
+msgid "Recent Portfolio"
+msgstr ""
+
+#: includes/core/codeless_elements.php:642
+msgid "Show off some recent portfolio"
+msgstr ""
+
+#: includes/core/codeless_elements.php:651
+#: includes/core/codeless_metaboxes.php:208
+msgid "Portfolio Style"
+msgstr ""
+
+#: includes/core/codeless_elements.php:665
+msgid "Overlayed"
+msgstr ""
+
+#: includes/core/codeless_elements.php:667
+#: includes/core/codeless_metaboxes.php:541
+msgid "Grayscale"
+msgstr ""
+
+#: includes/core/codeless_elements.php:669
+msgid "Basic"
+msgstr ""
+
+#: includes/core/codeless_elements.php:671
+msgid "Wrap with Chrome browser"
+msgstr ""
+
+#: includes/core/codeless_elements.php:682
+msgid "Select the way you want to show the items"
+msgstr ""
+
+#: includes/core/codeless_elements.php:694
+#: includes/core/codeless_elements.php:1080
+#: includes/core/codeless_options.php:2702
+msgid "Masonry"
+msgstr ""
+
+#: includes/core/codeless_elements.php:717
+#: includes/core/codeless_elements.php:797
+#: includes/core/codeless_elements.php:998
+#: includes/core/codeless_elements.php:1350
+#: includes/core/codeless_elements.php:1519
+#: includes/core/codeless_elements.php:3104
+#: includes/core/codeless_elements.php:3255
+#: includes/core/codeless_elements.php:4687
+#: includes/core/codeless_elements.php:4750
+msgid "Yes"
+msgstr ""
+
+#: includes/core/codeless_elements.php:719
+#: includes/core/codeless_elements.php:799
+#: includes/core/codeless_elements.php:1000
+#: includes/core/codeless_elements.php:1352
+#: includes/core/codeless_elements.php:1521
+#: includes/core/codeless_elements.php:3106
+#: includes/core/codeless_elements.php:3257
+#: includes/core/codeless_elements.php:4686
+#: includes/core/codeless_elements.php:4748
+msgid "No"
+msgstr ""
+
+#: includes/core/codeless_elements.php:723
+msgid "Do you want space beetwen items?"
+msgstr ""
+
+#: includes/core/codeless_elements.php:729
+msgid "Block Size:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:733
+msgid ""
+"This mean that if you select 1/4 and you choose a 100% row, should be "
+"display 4 items. Be sure that items are in exact proporcion with the column "
+"percentage. For example you cant use a 1/4 with 66% column or 1/3 with 75% "
+"column "
+msgstr ""
+
+#: includes/core/codeless_elements.php:757
+msgid "Portfolio Rows"
+msgstr ""
+
+#: includes/core/codeless_elements.php:769
+msgid "One Row"
+msgstr ""
+
+#: includes/core/codeless_elements.php:771
+msgid "Two Rows"
+msgstr ""
+
+#: includes/core/codeless_elements.php:773
+msgid "Three Rows"
+msgstr ""
+
+#: includes/core/codeless_elements.php:775
+msgid "Four Rows"
+msgstr ""
+
+#: includes/core/codeless_elements.php:777
+msgid "Five Rows"
+msgstr ""
+
+#: includes/core/codeless_elements.php:785
+#: includes/core/codeless_elements.php:986
+msgid "With carousel"
+msgstr ""
+
+#: includes/core/codeless_elements.php:829
+msgid "Set featured Portfolio:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:835
+msgid "Show Portfolio from all categories"
+msgstr ""
+
+#: includes/core/codeless_elements.php:837
+#: includes/core/codeless_elements.php:913
+#: includes/core/codeless_elements.php:1122
+#: includes/core/codeless_elements.php:1211
+msgid "Select a specific Category"
+msgstr ""
+
+#: includes/core/codeless_elements.php:852
+#: includes/core/codeless_elements.php:962
+#: includes/core/codeless_elements.php:1137
+#: includes/core/codeless_elements.php:1226
+msgid "Select the category:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:886
+msgid "Latest From Blog"
+msgstr ""
+
+#: includes/core/codeless_elements.php:890
+msgid "Blog Carousel with 2 styles"
+msgstr ""
+
+#: includes/core/codeless_elements.php:905
+#: includes/core/codeless_elements.php:1114
+#: includes/core/codeless_elements.php:1203
+msgid "Set Headlines From Blog"
+msgstr ""
+
+#: includes/core/codeless_elements.php:911
+#: includes/core/codeless_elements.php:1120
+#: includes/core/codeless_elements.php:1209
+msgid "Show headlines from all categories"
+msgstr ""
+
+#: includes/core/codeless_elements.php:915
+msgid "Select a specific post"
+msgstr ""
+
+#: includes/core/codeless_elements.php:930
+msgid "Select the post:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1020
+msgid "Simple without box"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1022
+msgid "Boxed and with padding"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1036
+msgid "Posts to show"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1052
+msgid "Full Blog"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1056
+msgid "All blog styles, show as much as you want"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1064
+msgid "Style:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1076
+#: includes/core/codeless_metaboxes.php:924
+#: includes/core/codeless_options.php:2702
+#: includes/core/codeless_options.php:2712
+msgid "Normal"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1078
+msgid "Second Style"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1082
+msgid "TimeLine"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1092
+msgid "Post Numbers"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1170
+msgid "Recent News"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1174
+msgid "Posts as events, inline and thumbnail"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1183
+msgid "Number of posts"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1262
+msgid "Inline Style Horizontal"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1264
+msgid "Events Style"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1266
+msgid "Vertical with thumbnail"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1284
+msgid "Call-to-action"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1288
+msgid "CTA block with various options"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1328
+msgid "All in-line"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1330
+msgid "Center with button after title"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1340
+msgid "Button Bool"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1366
+msgid "Button Title"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1433
+#: includes/core/codeless_elements.php:1533
+#: includes/core/codeless_elements.php:1917
+#: includes/core/codeless_elements.php:2230
+#: includes/core/codeless_elements.php:2451
+#: includes/core/codeless_elements.php:3439
+msgid "Select Icon"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1475
+msgid "Service Small Icon"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1479
+msgid "Small icon in the left"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1489
+#: includes/core/codeless_elements.php:1846
+#: includes/core/codeless_elements.php:2212
+#: includes/core/codeless_elements.php:2435
+#: includes/core/codeless_elements.php:2506
+#: includes/core/codeless_elements.php:3496
+msgid "Title:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1507
+msgid "Do you want Icon?"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1564
+msgid "Select Style"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1570
+msgid "Only Icon"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1570
+msgid "With Circle"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1594
+msgid "Icon wrapper bg color"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1624
+#: includes/core/codeless_elements.php:1979
+msgid "Icon color"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1641
+#: includes/core/codeless_elements.php:2027
+#: includes/core/codeless_elements.php:2250
+msgid "Content Type"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1643
+#: includes/core/codeless_elements.php:2029
+#: includes/core/codeless_elements.php:2252
+msgid "Select the content type to be used"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1653
+#: includes/core/codeless_elements.php:2041
+#: includes/core/codeless_elements.php:2264
+msgid "Post"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1657
+#: includes/core/codeless_elements.php:2039
+#: includes/core/codeless_elements.php:2262
+msgid "Add Content here"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1669
+#: includes/core/codeless_elements.php:2057
+#: includes/core/codeless_elements.php:2280
+msgid "Select the post"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1703
+#: includes/core/codeless_elements.php:2091
+#: includes/core/codeless_elements.php:2314
+msgid "Select the page"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1769
+#: includes/core/codeless_elements.php:2159
+#: includes/core/codeless_elements.php:2382
+#: includes/core/codeless_elements.php:2728
+#: includes/core/codeless_elements.php:3546
+#: includes/core/codeless_elements.php:4598
+#: includes/core/codeless_elements.php:4661
+msgid "Link"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1799
+msgid "Element Alignment"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1832
+msgid "Service Circle Icon"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1836
+msgid "With large icon in top center"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1863
+msgid "Style?"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1875
+msgid "Circle without border"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1877
+msgid "Only icon"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1879
+msgid "With border"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1890
+msgid "Do you want Icon or Image?"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1902
+#: includes/core/codeless_elements.php:4375
+#: includes/core/codeless_elements.php:4700
+msgid "Icon"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1904
+#: includes/core/codeless_elements.php:2534
+#: includes/core/codeless_elements.php:4441
+#: includes/view/portfolio/single-gallery.php:11
+msgid "Image"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1950
+#: includes/core/codeless_elements.php:4454
+msgid "Image:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:1994
+msgid "Circle Color"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2008
+msgid "Border Color"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2198
+msgid "Service Square"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2202
+msgid "Square with borders"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2421
+msgid "Service Text Effect"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2425
+msgid "When hover title, shows the description"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2493
+msgid "Service Media"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2497
+msgid "Add a service with image or video"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2522
+msgid "Type of Media ?"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2536
+#: includes/core/codeless_elements.php:2582
+#: includes/core/codeless_elements.php:4443
+#: includes/core/codeless_metaboxes.php:67
+#: includes/core/codeless_metaboxes.php:73
+msgid "Video"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2538
+msgid "Self Hosted Video"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2549
+msgid "Upload Photo"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2616
+msgid "Video Mp4"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2650
+msgid "Video WebM"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2697
+msgid "With Title and Description below media"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2699
+msgid "Title over image"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2751
+msgid "Chart Skill"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2755
+msgid "Pie Chart skill "
+msgstr ""
+
+#: includes/core/codeless_elements.php:2763
+#: includes/core/codeless_elements.php:2872
+msgid "Percentage %"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2777
+msgid "Text"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2792
+msgid "Color"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2818
+msgid "Progress Bar Skills. Linked with Skill element"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2828
+#: includes/core/codeless_elements.php:3413
+#: includes/core/codeless_elements.php:3433
+msgid "VcColumnView"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2838
+msgid "Skill"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2842
+msgid "Single skill to be linked with others"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2898
+msgid "Single Testimonial"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2902
+msgid "Testimonial with image in the left"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2910
+msgid "Select testimonial:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2936
+msgid "Testimonial (Carousel)"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2940
+msgid "Without image and so simple"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2950
+#: includes/core/codeless_elements.php:3000
+#: includes/core/codeless_elements.php:3130
+#: includes/core/codeless_elements.php:3190
+msgid "Select Category:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2988
+msgid "Testimonial (Cycle)"
+msgstr ""
+
+#: includes/core/codeless_elements.php:2992
+msgid "Testimonial business, corporate style, no image"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3026
+msgid "Single Staff"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3030
+msgid "Show one member from staff"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3040
+msgid "Select Staff Member"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3066
+msgid "With white box"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3066
+msgid "Simple centered"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3080
+msgid "Staff Carousel"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3084
+msgid "Staff members carousel"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3092
+msgid "Do you want pagination?"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3158
+msgid "Display FAQ posts"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3219
+msgid "Show clients from Theme Options -> Clients"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3227
+msgid "Dark or Light:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3231
+msgid "Select the type of client image, light or dark version"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3235
+#: includes/core/codeless_options.php:540
+#: includes/core/codeless_options.php:790
+msgid "Light"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3243
+msgid "Carousel"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3279
+msgid "Price list is linked with List Item element"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3308
+msgid "Price"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3323
+msgid "Currency"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3338
+msgid "Period"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3352
+msgid "Box Color"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3385
+msgid "Button title"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3393
+msgid "Purchase"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3398
+msgid "Button link"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3421
+msgid "List"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3425
+msgid "List with or without description"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3463
+msgid "List Item"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3490
+msgid "Title & Description"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3512
+msgid "Description:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3548
+msgid "Leave empty if you don't need a link for this item"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3571
+msgid "Google Map"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3575
+msgid "Create a google map"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3584
+#: plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3588
+msgid "Only the link"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3598
+msgid "Map Height (px)"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3614
+msgid "Content after the map"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3637
+msgid "Countdown"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3641
+msgid "Comingsoon countdown"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3651
+msgid "Year"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3665
+msgid "Month"
+msgstr ""
+
+#: includes/core/codeless_elements.php:3709
+msgid "Day"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4291
+msgid "Block Title:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4307
+msgid "Letter Spacing:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4337
+msgid "Animated Counter"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4341
+msgid "Animated counter with Icon in top"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4349
+msgid "Number"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4416 vc_templates/media.php:42
+msgid "Media"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4420
+msgid "Add Image or Video with custom size"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4429
+msgid "Select type of media:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4483
+msgid "Video:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4514
+msgid "Alignment:"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4539
+msgid "Specify Width (px):"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4568
+msgid "Animation"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4580
+msgid "Show From Left"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4582
+msgid "Show From Right"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4584
+msgid "Show from Top"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4584
+msgid "Up"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4586
+msgid "Show From Bottom"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4586
+msgid "Down"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4635
+msgid "Button"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4639
+msgid "Get the styles from theme options."
+msgstr ""
+
+#: includes/core/codeless_elements.php:4675
+msgid "Open in new tab"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4714
+msgid "Align"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4738
+msgid "Second Button ?"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4764
+msgid "Button 2 Title"
+msgstr ""
+
+#: includes/core/codeless_elements.php:4798
+msgid "Button 2 Link"
+msgstr ""
+
+#: includes/core/codeless_elements.php:5052
+#: includes/core/codeless_metaboxes.php:67
+msgid "Slideshow"
+msgstr ""
+
+#: includes/core/codeless_elements.php:5056
+msgid "Flexslider Slideshow"
+msgstr ""
+
+#: includes/core/codeless_elements.php:5064
+msgid "Select slides"
+msgstr ""
+
+#: includes/core/codeless_elements.php:5077
+msgid "Image Size"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:484
+msgid " (Pending)"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:528
+msgid "Mega Menu Column"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:530
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:534
+#: includes/core/codeless_megamenu.php:538
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:556
+msgid "URL"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:570
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:572
+msgid "Title for the Mega Menu Column"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:588
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:600
+msgid "link Target"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:604
+msgid "Same window or tab"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:606
+msgid "New window or tab"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:618
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:630
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:712
+#, php-format
+msgid "Original: %1$s"
+msgstr ""
+
+#: includes/core/codeless_megamenu.php:738
+msgid "Remove"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:19
+msgid "Page Style"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:26
+msgid "Overwrite the link with your custom link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:31
+msgid "Add Custom Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:37
+msgid "Select the style of the single portfolio"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:38
+msgid "Please select the style for the portfolio"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:42
+msgid "Gallery Grid"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:42
+msgid "Floating Sidebar"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:42
+msgid "Fullwidth Slider / Image / Video"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:42
+msgid "In Container Slider / Image / Video"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:47
+#: includes/core/codeless_metaboxes.php:56
+msgid "Select the position for the content"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:58
+#: includes/core/codeless_metaboxes.php:235
+msgid "Bottom"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:58
+#: includes/core/codeless_metaboxes.php:235
+msgid "Top"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:64
+msgid "Media Type"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:67 includes/view/blog/loop-grid.php:96
+#: includes/view/blog/loop-second-style.php:90
+#: includes/view/blog/loop-timeline.php:96 vc_templates/latest_blog.php:66
+#: vc_templates/latest_blog.php:101
+msgid "Featured Image"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:74
+msgid "Youtube or vimeo video link or iframe"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:82
+#: includes/core/codeless_metaboxes.php:530
+msgid "Add/Edit Slides"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:83
+#: includes/core/codeless_metaboxes.php:531
+msgid "Add new or edit existing slider images"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:90
+msgid "Switch On to add related portfolio items on bottom"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:97
+msgid "Switch On if you want comments functionality"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:108
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:115
+msgid "Custom fields Values"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:116
+msgid ""
+"Create unlimited custom fields in Theme Options. Leave empty if you dont "
+"want to display this custom field"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:129
+msgid "Single Portfolio Options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:162
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:163
+msgid ""
+"Please select the categories of portfolio items to connect with this page"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:171
+msgid "Portfolio Mode"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:172
+msgid "Select one mode to display items"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:179
+msgid "Portfolio Columns"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:180
+#: includes/core/codeless_options.php:2719
+msgid "Number of columns for the layout"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:209
+msgid "Select one style to display items"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:211
+msgid "Overlayed with base color and zoom effect"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:211
+msgid "Grayscale (Colored on hover)"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:211
+msgid "Basic with Title and Description"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:211
+msgid "With Chrome Browser PNG"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:216
+msgid "Portfolio Layout"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:217
+msgid "The grid layout"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:219
+msgid "Centered grid in container"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:219
+#: includes/core/codeless_metaboxes.php:617
+#: includes/core/codeless_options.php:2859
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:224
+msgid "Portfolio Space"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:225
+msgid "Space beetwen portfolio items"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:227
+msgid "Normal grid space"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:227
+msgid "Without space"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:232
+msgid "Portfolio Content Position"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:233
+msgid ""
+"Add this page content (Visual Composer Content) on top or bottom of grid ?"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:241
+#: includes/core/codeless_options.php:2785
+msgid "Select the pagination method"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:242
+#: includes/core/codeless_options.php:2786
+msgid "Without pagination"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:242
+#: includes/core/codeless_options.php:2786
+msgid "With Pagination"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:242
+#: includes/core/codeless_options.php:2786
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:248
+msgid "Custom number of portfolio items per Page"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:249
+msgid "Switch on to set a custom number of portfolio items per page"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:256
+msgid "Portfolio Items per Page"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:268
+msgid "Portfolio Options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:300
+msgid "Overwrite the default post layout"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:301
+msgid "Do you want to overwrite the default layout for this post?"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:306
+#: includes/core/codeless_options.php:2741
+msgid "Select main content and sidebar arrangement."
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:323
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:332
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:373
+msgid "Page Header Options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:374
+msgid ""
+"In this section you can create custom page header only for this page. If you "
+"want to change or to view the default page header options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:381
+msgid "Overwrite the default page options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:382
+msgid "Do you want to overwrite the default page options in Theme Options ?"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:389
+#: includes/core/codeless_options.php:943
+msgid "Active Page Header"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:390
+#: includes/core/codeless_options.php:944
+msgid ""
+"Switch On to enable page header for pages, posts (For each post or page you "
+"can add custom options)"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:402
+#: includes/core/codeless_options.php:955
+msgid "Page Header Height"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:403
+#: includes/core/codeless_options.php:160
+#: includes/core/codeless_options.php:354
+#: includes/core/codeless_options.php:379
+#: includes/core/codeless_options.php:472
+#: includes/core/codeless_options.php:706
+#: includes/core/codeless_options.php:917
+#: includes/core/codeless_options.php:956
+#: includes/core/codeless_options.php:1029
+#: includes/core/codeless_options.php:2886
+#: includes/core/codeless_options.php:2899
+#: includes/core/codeless_options.php:2912
+#: includes/core/codeless_options.php:2927
+msgid "units: px"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:412
+#: includes/core/codeless_options.php:964
+msgid "Page header style"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:413
+#: includes/core/codeless_options.php:965
+msgid "Select the style for the default page header"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:414
+#: includes/core/codeless_options.php:966
+msgid "Basic (Left with breadcrumbs)"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:414
+#: includes/core/codeless_options.php:966
+msgid "Centered"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:422
+msgid "SUbtitle for this page ?"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:430
+msgid "SUbtitle for this page"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:431
+msgid "Add a subtitle here"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:432
+msgid "Show after the main title  "
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:441
+#: includes/core/codeless_options.php:974
+msgid "Page header font color"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:442
+#: includes/core/codeless_options.php:975
+msgid "Select the color for the title or breadcrumbs in page header"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:452
+#: includes/core/codeless_options.php:984
+msgid "Page header background"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:453
+#: includes/core/codeless_options.php:985
+msgid "Page Header background with image, color, etc."
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:515
+msgid "Sliders Options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:521
+msgid "Select Slider Type"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:522
+msgid "Select one of the listed sliders"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:523
+msgid "Codeless Slider"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:523
+msgid "Flexslider"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:523
+msgid "Layerslider"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:523
+msgid "News Slider"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:523
+msgid "Gallery Carousel"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:538
+msgid "Gallery Carousel Effect"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:541
+msgid "With Opacity"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:548
+msgid "Select one of the created revolution sliders."
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:558
+msgid "Select one of the created layer sliders."
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:568
+msgid "Select one of the created codelessliders."
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:578
+msgid "Codeless Slider Speed"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:587
+msgid "Slider height"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:588
+#, php-format
+msgid "Write 100% for fullscreen or for example 600 (without px) for custom"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:595
+msgid "Select the first featured post"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:605
+msgid "Select the second featured post"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:615
+msgid "Select Slider layout"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:624
+msgid "Active Fixed Slider"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:633
+msgid "Active Parallax"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:634
+msgid "Look, it's on!"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:641
+msgid "Remove Sliders from Mobile Phone View"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:642
+msgid ""
+"Check this option if you want to remove sliders from mobile view for this "
+"page."
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:658
+msgid "Page Options & Style"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:665
+msgid "Page Content Background"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:666
+msgid "Background color of content in this page "
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:674
+msgid "Header Color Style for Header 1"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:675
+msgid "Select Light for light colors in header and white logo"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:676
+msgid "Dark version header"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:676
+msgid "Light version header"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:676
+msgid "Auto check (Works only with background images)"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:683
+msgid "Use menu as one page menu"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:684
+msgid "Check this to activate one page menu"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:685
+msgid ""
+"After activate this, to the sections of visual composer add a class "
+"attribute for ex: \"services\" and set the link of the menu item: #services"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:692
+msgid "Fullscreen Sections Sliding"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:693
+msgid "Check to use visual sections as fullscreen sections"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:701
+msgid "Use Featured Image as Photo"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:710
+msgid "Custom Menu for this page?"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:711
+msgid "Switch on if you need a custom Menu for this page"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:718
+msgid "Select Custom Menu"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:745
+#: includes/core/codeless_metaboxes.php:753
+msgid "General Settings"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:783
+#: includes/core/codeless_metaboxes.php:882
+msgid "Staff Position"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:784
+msgid "Write here the position for this staff member into your business"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:789
+msgid "Staff Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:790
+msgid ""
+"Set a link for this team member. You can connect with a page created with "
+"visual composer"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:796
+#: includes/core/codeless_options.php:3067
+msgid "Facebook Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:803
+#: includes/core/codeless_options.php:3072
+msgid "Twitter Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:810
+msgid "Google Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:817
+#: includes/core/codeless_options.php:3077
+msgid "Pinterest Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:824
+#: includes/core/codeless_options.php:3102
+msgid "Linkedin Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:831
+#: includes/core/codeless_options.php:3114
+msgid "Instagram Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:838
+msgid "Mail Link"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:851
+msgid "Staff Options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:883
+msgid "Write here the position for this testimonial post"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:892
+msgid "Testimonial Options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:920
+msgid "Blog Post Style"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:921
+msgid "Select from various blog post styles"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:925
+#: includes/core/codeless_options.php:2712
+msgid "Modern"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:926
+msgid "Fullscreen Post Style"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:932
+msgid "Fullscreen Post Effect"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:933
+msgid "Use this option if you active the fullscreen blog"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:942
+msgid "Fullscreen Post Effect Delay"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:948
+msgid "Fullscreen Post Position"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:949
+msgid "Position of the content in the fullscreen section"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:957
+msgid "Future date for upcoming events"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:960
+msgid "Click to enter a date"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:970
+msgid "Blog Options"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:986
+msgid "Video / Audio Link or Iframe"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:987
+msgid "Insert here link / Iframe for video or audio"
+msgstr ""
+
+#: includes/core/codeless_metaboxes.php:996
+msgid "Blog Post Format"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: includes/core/codeless_options.php:33 includes/core/codeless_options.php:34
+msgid "Specular"
+msgstr ""
+
+#: includes/core/codeless_options.php:38
+msgid "AIzaSyDNS4R2BxpPspB31mZPnGvelSPSXvggI4I"
+msgstr ""
+
+#: includes/core/codeless_options.php:107
+msgid ""
+"Codeless has been quietly but consistently building a powerhouse portfolio "
+"of web site design and marketing success."
+msgstr ""
+
+#: includes/core/codeless_options.php:109
+msgid ""
+"Codeless has been quietly but consistently building a powerhouse portfolio "
+"of web site design and marketing success. "
+msgstr ""
+
+#: includes/core/codeless_options.php:120
+msgid "General Options"
+msgstr ""
+
+#: includes/core/codeless_options.php:121
+msgid ""
+"In this section you can customize basic options like logo, responsive etc..."
+msgstr ""
+
+#: includes/core/codeless_options.php:129
+msgid "Responsive Layout"
+msgstr ""
+
+#: includes/core/codeless_options.php:130
+msgid "Switch on to active responsive layout"
+msgstr ""
+
+#: includes/core/codeless_options.php:137
+msgid "Upload Logo"
+msgstr ""
+
+#: includes/core/codeless_options.php:138
+msgid "Upload here the logo that is placed in top of the page "
+msgstr ""
+
+#: includes/core/codeless_options.php:139
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: includes/core/codeless_options.php:146
+msgid "Upload Logo Light"
+msgstr ""
+
+#: includes/core/codeless_options.php:147
+msgid "Upload here the logo that is placed in top of the page (Light Version) "
+msgstr ""
+
+#: includes/core/codeless_options.php:159
+msgid "Logo Height"
+msgstr ""
+
+#: includes/core/codeless_options.php:169
+msgid "Smooth Scroll"
+msgstr ""
+
+#: includes/core/codeless_options.php:170
+msgid "Switch on to active smooth scrolling"
+msgstr ""
+
+#: includes/core/codeless_options.php:177
+msgid "Select Special Pages"
+msgstr ""
+
+#: includes/core/codeless_options.php:187
+msgid "Select Frontpage"
+msgstr ""
+
+#: includes/core/codeless_options.php:188
+msgid "Frontpage is the page that you want to show in the home"
+msgstr ""
+
+#: includes/core/codeless_options.php:189
+msgid "Select one of the created pages to use it as frontpage"
+msgstr ""
+
+#: includes/core/codeless_options.php:198
+msgid "Select Blog Page"
+msgstr ""
+
+#: includes/core/codeless_options.php:199
+msgid "Blogpage is the page that you want to show the blog posts"
+msgstr ""
+
+#: includes/core/codeless_options.php:200
+msgid "Select one of the created pages to use as blog"
+msgstr ""
+
+#: includes/core/codeless_options.php:208
+msgid "Select Coming Soon Page"
+msgstr ""
+
+#: includes/core/codeless_options.php:209
+msgid "Select one page that you want to use as comingsoon or maintenance page"
+msgstr ""
+
+#: includes/core/codeless_options.php:222
+msgid "404 error message"
+msgstr ""
+
+#: includes/core/codeless_options.php:223
+msgid "Text to be placed in 404 page"
+msgstr ""
+
+#: includes/core/codeless_options.php:230
+msgid "Tracking Code / Custom CSS / Custom JS"
+msgstr ""
+
+#: includes/core/codeless_options.php:238
+msgid "Tracking Code"
+msgstr ""
+
+#: includes/core/codeless_options.php:239
+#: includes/core/codeless_options.php:260
+msgid "Paste your JS code here."
+msgstr ""
+
+#: includes/core/codeless_options.php:242
+msgid ""
+"Paste your Google Analytics or other tracking code here. This will be added "
+"into the footer."
+msgstr ""
+
+#: includes/core/codeless_options.php:249
+msgid "Custom CSS Code"
+msgstr ""
+
+#: includes/core/codeless_options.php:250
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: includes/core/codeless_options.php:253
+msgid "Add custom css code to theme."
+msgstr ""
+
+#: includes/core/codeless_options.php:259
+msgid "Custom JS Code"
+msgstr ""
+
+#: includes/core/codeless_options.php:286
+msgid "Header Options"
+msgstr ""
+
+#: includes/core/codeless_options.php:292
+msgid "General"
+msgstr ""
+
+#: includes/core/codeless_options.php:302
+msgid "Header Style"
+msgstr ""
+
+#: includes/core/codeless_options.php:303
+msgid "Select the style for the header"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Simple style"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "With border top"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Modern Style"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Menu Item with BG"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Fullscreen Overlay"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Below the logo navigation with bg"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Left / Right Side Header"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Menu Item with border bottom"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Menu link underline"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Centered Logo and Navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Logo in center and 2 navigations in sides"
+msgstr ""
+
+#: includes/core/codeless_options.php:304
+msgid "Navigation with border separators, below logo"
+msgstr ""
+
+#: includes/core/codeless_options.php:311
+msgid "Make Transparency Header"
+msgstr ""
+
+#: includes/core/codeless_options.php:312
+msgid ""
+"If you active this option the header should be shown on top of the slider"
+msgstr ""
+
+#: includes/core/codeless_options.php:321
+msgid "Menu Overlay Fullscreen BG Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:335
+msgid "Header 6 Navigation BG Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:352
+msgid "Header 6 Navigation Height"
+msgstr ""
+
+#: includes/core/codeless_options.php:362
+msgid "Make transparent this header"
+msgstr ""
+
+#: includes/core/codeless_options.php:363
+msgid "Switch On to enable transparency"
+msgstr ""
+
+#: includes/core/codeless_options.php:377
+msgid "Header 7 Side Menu Width"
+msgstr ""
+
+#: includes/core/codeless_options.php:391
+msgid "Header 7 Side Menu Inner Padding"
+msgstr ""
+
+#: includes/core/codeless_options.php:392
+msgid "Adjust side menu padding "
+msgstr ""
+
+#: includes/core/codeless_options.php:408
+msgid "Header 7 Side Menu Inner Margin beetwen logo/menu/widgets"
+msgstr ""
+
+#: includes/core/codeless_options.php:409
+msgid "Adjust margin beetween side menu elements logog/menu/widgets "
+msgstr ""
+
+#: includes/core/codeless_options.php:416
+msgid "Header 7 Side Menu Position"
+msgstr ""
+
+#: includes/core/codeless_options.php:417
+msgid "Select the fixed position for the side navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:433
+msgid "Add border to side header style"
+msgstr ""
+
+#: includes/core/codeless_options.php:434
+msgid "Border for side left/right header style"
+msgstr ""
+
+#: includes/core/codeless_options.php:443
+msgid "Add colored border in top of Header"
+msgstr ""
+
+#: includes/core/codeless_options.php:444
+msgid "Border with theme color in top of Left/Right header"
+msgstr ""
+
+#: includes/core/codeless_options.php:454
+msgid "Border Top & bottom for navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:471
+msgid "Header Height"
+msgstr ""
+
+#: includes/core/codeless_options.php:486
+#: includes/core/codeless_options.php:1042
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: includes/core/codeless_options.php:496
+msgid "Show Search"
+msgstr ""
+
+#: includes/core/codeless_options.php:497
+msgid "Show search in the right of header"
+msgstr ""
+
+#: includes/core/codeless_options.php:498
+msgid "Check this if you want the search field in the right part of the header"
+msgstr ""
+
+#: includes/core/codeless_options.php:505
+msgid "Remove container from header"
+msgstr ""
+
+#: includes/core/codeless_options.php:506
+msgid "Cant use with left menu"
+msgstr ""
+
+#: includes/core/codeless_options.php:507
+msgid ""
+"By checking this the header container should be removed and transformed in "
+"fullwidth header"
+msgstr ""
+
+#: includes/core/codeless_options.php:514
+msgid "Add button to header"
+msgstr ""
+
+#: includes/core/codeless_options.php:515
+msgid "Add a button in header after the menu"
+msgstr ""
+
+#: includes/core/codeless_options.php:523
+msgid "Header Button"
+msgstr ""
+
+#: includes/core/codeless_options.php:531
+msgid "Header Button Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:539
+msgid "Button Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:540
+#: includes/core/codeless_options.php:790
+msgid "Dark"
+msgstr ""
+
+#: includes/core/codeless_options.php:548
+msgid "Header Border Bottom"
+msgstr ""
+
+#: includes/core/codeless_options.php:556
+msgid "Add Border bottom for header"
+msgstr ""
+
+#: includes/core/codeless_options.php:567
+msgid "Header Shadow"
+msgstr ""
+
+#: includes/core/codeless_options.php:568
+msgid "Select one shadow style or leave it without shadow"
+msgstr ""
+
+#: includes/core/codeless_options.php:569
+msgid "Isnt compatible with all headers"
+msgstr ""
+
+#: includes/core/codeless_options.php:570
+msgid "Without Shadow"
+msgstr ""
+
+#: includes/core/codeless_options.php:570
+msgid "Fullwidth light shadow"
+msgstr ""
+
+#: includes/core/codeless_options.php:570
+msgid "Shadow1"
+msgstr ""
+
+#: includes/core/codeless_options.php:570
+msgid "Shadow2"
+msgstr ""
+
+#: includes/core/codeless_options.php:570
+msgid "Shadow3"
+msgstr ""
+
+#: includes/core/codeless_options.php:578
+msgid "Show Responsive Menu Dropdown"
+msgstr ""
+
+#: includes/core/codeless_options.php:586
+msgid "Show header tools in responsive (Mobile)"
+msgstr ""
+
+#: includes/core/codeless_options.php:587
+msgid "Extra Nav, Shop Cart etc..."
+msgstr ""
+
+#: includes/core/codeless_options.php:596
+msgid "Menu Options"
+msgstr ""
+
+#: includes/core/codeless_options.php:601
+msgid "Menu Item Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:618
+msgid "Select the appropiate font style for the menu"
+msgstr ""
+
+#: includes/core/codeless_options.php:622
+#: includes/core/codeless_options.php:903
+#: includes/core/codeless_options.php:2457
+#: includes/core/codeless_options.php:2486
+msgid "Open Sans"
+msgstr ""
+
+#: includes/core/codeless_options.php:645
+msgid "Menu Items padding"
+msgstr ""
+
+#: includes/core/codeless_options.php:646
+msgid "Adjust padding beetwen menu items "
+msgstr ""
+
+#: includes/core/codeless_options.php:665
+msgid "Menu Items Margin"
+msgstr ""
+
+#: includes/core/codeless_options.php:666
+msgid "Adjust margin beetwen menu items "
+msgstr ""
+
+#: includes/core/codeless_options.php:674
+msgid "Custom Current Menu Item / Hover Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:684
+msgid "Current Menu Item / Hover Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:685
+msgid ""
+"This option will overwrite the default value of Primary Color on Styling "
+"Options"
+msgstr ""
+
+#: includes/core/codeless_options.php:696
+msgid "Dropdown Options & Mobile Menu"
+msgstr ""
+
+#: includes/core/codeless_options.php:705
+msgid "Dropdown Width"
+msgstr ""
+
+#: includes/core/codeless_options.php:716
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:717
+msgid "Background Color for the dropdown in the menu"
+msgstr ""
+
+#: includes/core/codeless_options.php:725
+msgid "Dropdown Border color"
+msgstr ""
+
+#: includes/core/codeless_options.php:726
+msgid "Dropdown border color for navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:733
+msgid "Dropdown typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:747
+#: includes/core/codeless_options.php:774
+msgid "Select the appropiate font style for the megamenu column title"
+msgstr ""
+
+#: includes/core/codeless_options.php:760
+msgid "Megamenu title"
+msgstr ""
+
+#: includes/core/codeless_options.php:788
+msgid "Cart Dropdown in header button style"
+msgstr ""
+
+#: includes/core/codeless_options.php:799
+msgid "Top Widgetized Area"
+msgstr ""
+
+#: includes/core/codeless_options.php:804
+msgid "Show Top Navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:805
+msgid "Switch On to enable top navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:813
+msgid "Select layout of columns on this area"
+msgstr ""
+
+#: includes/core/codeless_options.php:837
+msgid "Background Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:847
+msgid "Top Navigation Border Top"
+msgstr ""
+
+#: includes/core/codeless_options.php:855
+msgid "Add Border top for the top navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:866
+msgid "Top Navigation Border Bottom"
+msgstr ""
+
+#: includes/core/codeless_options.php:874
+msgid "Add Border bottom for the top navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:885
+msgid "Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:900
+msgid "Select the appropiate font style for top nav"
+msgstr ""
+
+#: includes/core/codeless_options.php:916
+msgid "Top Nav Height"
+msgstr ""
+
+#: includes/core/codeless_options.php:925
+msgid "Show Top Navigation on Mobile (Small screens)"
+msgstr ""
+
+#: includes/core/codeless_options.php:926
+msgid "Switch On to enable top navigation on small screens"
+msgstr ""
+
+#: includes/core/codeless_options.php:938
+#: includes/core/codeless_options.php:1161
+msgid "Default Page Header"
+msgstr ""
+
+#: includes/core/codeless_options.php:992
+msgid "Page header Border Bottom"
+msgstr ""
+
+#: includes/core/codeless_options.php:1000
+msgid "Add Border bottom for page header"
+msgstr ""
+
+#: includes/core/codeless_options.php:1012
+msgid "Sticky Nav"
+msgstr ""
+
+#: includes/core/codeless_options.php:1017
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/core/codeless_options.php:1018
+msgid "Switch on to active sticky header (fixed position on header)"
+msgstr ""
+
+#: includes/core/codeless_options.php:1028
+msgid "Sticky Header Height"
+msgstr ""
+
+#: includes/core/codeless_options.php:1041
+msgid "Sticky Background"
+msgstr ""
+
+#: includes/core/codeless_options.php:1052
+msgid "Sticky Logo"
+msgstr ""
+
+#: includes/core/codeless_options.php:1053
+msgid "Remove the Logo from the main Header and shows only on stiky"
+msgstr ""
+
+#: includes/core/codeless_options.php:1061
+msgid "Sticky on Responsive"
+msgstr ""
+
+#: includes/core/codeless_options.php:1062
+msgid "Switch on to active sticky header on responsive"
+msgstr ""
+
+#: includes/core/codeless_options.php:1073
+msgid "Styling Options"
+msgstr ""
+
+#: includes/core/codeless_options.php:1079
+msgid "Primary Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1080
+msgid "Color for links on hover, highlighted text and other"
+msgstr ""
+
+#: includes/core/codeless_options.php:1088
+msgid "Content Links Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1089
+msgid "Color for links"
+msgstr ""
+
+#: includes/core/codeless_options.php:1098
+msgid "Body Font Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1099
+msgid "Base font color for the main content, in light sections"
+msgstr ""
+
+#: includes/core/codeless_options.php:1108
+msgid "Headings Font Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1109
+msgid "Base font color for headings, in light sections"
+msgstr ""
+
+#: includes/core/codeless_options.php:1117
+msgid "Base Border Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1118
+msgid "Base border color around the theme"
+msgstr ""
+
+#: includes/core/codeless_options.php:1127
+msgid "Highlighted Background"
+msgstr ""
+
+#: includes/core/codeless_options.php:1128
+msgid "Highlighted Background in main content, white sections"
+msgstr ""
+
+#: includes/core/codeless_options.php:1139
+msgid "Add a background to body"
+msgstr ""
+
+#: includes/core/codeless_options.php:1148
+msgid "Content Background"
+msgstr ""
+
+#: includes/core/codeless_options.php:1149
+msgid "Add a background to content"
+msgstr ""
+
+#: includes/core/codeless_options.php:1166
+msgid "Normal Style No Subtitle Title Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1191
+msgid "Normal Style With Subtitle Title Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1216
+msgid "Normal Style With Subtitle Subtitle Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1241
+msgid "Centered Style No Subtitle Title Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1266
+msgid "Centered Style With Subtitle Title Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1292
+msgid "Centered Style With Subtitle Subtitle Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1317
+msgid "Page Header Design Style"
+msgstr ""
+
+#: includes/core/codeless_options.php:1318
+msgid "Select the design style for the default page header"
+msgstr ""
+
+#: includes/core/codeless_options.php:1319
+msgid "Basic no padding and background, with little border"
+msgstr ""
+
+#: includes/core/codeless_options.php:1319
+msgid "With padding and background"
+msgstr ""
+
+#: includes/core/codeless_options.php:1325
+msgid "Page Header with padding style title bg color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1337
+msgid "Page Header with padding style subtitle bg color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1349
+msgid "Page Header with padding style subtitle font color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1362
+msgid "Footer Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:1367
+msgid "Footer Headings Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1395
+msgid "Footer Body Font Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1396
+msgid "Select the font color for text in footer"
+msgstr ""
+
+#: includes/core/codeless_options.php:1405
+msgid "Footer links font Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1406
+msgid "Select the font color for links"
+msgstr ""
+
+#: includes/core/codeless_options.php:1415
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1416
+msgid "Color for the footer main part"
+msgstr ""
+
+#: includes/core/codeless_options.php:1425
+msgid "Copyright Background Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1426
+msgid "Color for the latest part of the footer"
+msgstr ""
+
+#: includes/core/codeless_options.php:1435
+msgid "Footer Border Top"
+msgstr ""
+
+#: includes/core/codeless_options.php:1444
+msgid "Add Border top for footer"
+msgstr ""
+
+#: includes/core/codeless_options.php:1457
+msgid "Social Icons Circle BG"
+msgstr ""
+
+#: includes/core/codeless_options.php:1458
+msgid "Circle background color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1467
+msgid "Social Icons Circle Icon Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1468
+msgid "Circle icon color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1480
+msgid "Blog Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:1485
+msgid "Blog Title Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1512
+msgid "Blog Info List Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1537
+msgid "Blog Info List Icon Size"
+msgstr ""
+
+#: includes/core/codeless_options.php:1560
+msgid "Active Timeline (or for masonry) Box Shadow"
+msgstr ""
+
+#: includes/core/codeless_options.php:1567
+msgid "Timeline (or masonry) post box bg color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1575
+msgid "Fullscreen Blog Content Box BG"
+msgstr ""
+
+#: includes/core/codeless_options.php:1590
+msgid "Sidebar Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:1595
+msgid "Widget Title"
+msgstr ""
+
+#: includes/core/codeless_options.php:1633
+msgid "Widget Title Margin Bottom"
+msgstr ""
+
+#: includes/core/codeless_options.php:1651
+msgid "Widget Margin Bottom"
+msgstr ""
+
+#: includes/core/codeless_options.php:1660
+msgid "Sidebar Tagcloud Background"
+msgstr ""
+
+#: includes/core/codeless_options.php:1670
+msgid "Sidebar Tagcloud Font color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1682
+msgid "Sliders Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:1688
+msgid "Codeless Slider Wrapper Background Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1699
+msgid "Filters Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:1704
+msgid "Portfolio Filter & FAQ Filter Basic Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1731
+msgid "Portfolio Filter & FAQ Filter Basic Typography (Active)"
+msgstr ""
+
+#: includes/core/codeless_options.php:1741
+msgid "Portfolio Filter Fullwidth Background Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1751
+msgid "Portfolio Filter Fullwidth Item color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1764
+msgid "Portfolio Filter Fullwidth Item hover color "
+msgstr ""
+
+#: includes/core/codeless_options.php:1779
+msgid "Portfolio Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:1785
+msgid "Portfolio Overlay BG Color "
+msgstr ""
+
+#: includes/core/codeless_options.php:1796
+msgid "Portfolio Overlay Title Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1822
+msgid "Portfolio Overlay Subtitle Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1849
+msgid "Portfolio Grayscale Background"
+msgstr ""
+
+#: includes/core/codeless_options.php:1858
+msgid "Portfolio Grayscale Title Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1883
+msgid "Portfolio Grayscale Subtitle Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1893
+msgid "Portfolio Basic Overlay Background"
+msgstr ""
+
+#: includes/core/codeless_options.php:1906
+msgid "Portfolio Basic Icon Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:1915
+msgid "Portfolio Basic Title Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1942
+msgid "Portfolio Basic Subtitle Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:1972
+msgid "Elements Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:1977
+msgid "Toggle title typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:2004
+msgid "Activated Toggle Font Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:2013
+msgid "Block Title Element (Column) Title"
+msgstr ""
+
+#: includes/core/codeless_options.php:2042
+msgid "Block Title Element (Column) Subtitle"
+msgstr ""
+
+#: includes/core/codeless_options.php:2068
+msgid "Block Title Element (Section) Title"
+msgstr ""
+
+#: includes/core/codeless_options.php:2097
+msgid "Block Title Element (Section) Desc"
+msgstr ""
+
+#: includes/core/codeless_options.php:2125
+msgid "Animated Counters Typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:2152
+msgid "Testimonial typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:2179
+msgid "Textbar title typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:2206
+msgid "Contact Form Elements Border"
+msgstr ""
+
+#: includes/core/codeless_options.php:2216
+msgid "Buttons Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:2223
+msgid "Default (Border and Effect)"
+msgstr ""
+
+#: includes/core/codeless_options.php:2224
+#: includes/core/codeless_options.php:3175
+msgid "Business"
+msgstr ""
+
+#: includes/core/codeless_options.php:2225
+msgid "Without padding"
+msgstr ""
+
+#: includes/core/codeless_options.php:2226
+msgid "Rounded"
+msgstr ""
+
+#: includes/core/codeless_options.php:2227
+msgid "Big and Shadow"
+msgstr ""
+
+#: includes/core/codeless_options.php:2228
+msgid "With Icon in the left"
+msgstr ""
+
+#: includes/core/codeless_options.php:2229
+msgid "Gradient"
+msgstr ""
+
+#: includes/core/codeless_options.php:2232
+msgid "Overall Button Style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2239
+msgid "Overall button typography"
+msgstr ""
+
+#: includes/core/codeless_options.php:2266
+msgid "Overall button background"
+msgstr ""
+
+#: includes/core/codeless_options.php:2277
+msgid "Overall button border"
+msgstr ""
+
+#: includes/core/codeless_options.php:2288
+msgid "Overall button hover Font Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:2297
+msgid "Overall button hover bg"
+msgstr ""
+
+#: includes/core/codeless_options.php:2309
+msgid "Overall button hover border"
+msgstr ""
+
+#: includes/core/codeless_options.php:2321
+msgid "Light button Font Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:2330
+msgid "Light button bg"
+msgstr ""
+
+#: includes/core/codeless_options.php:2342
+msgid "Light button border"
+msgstr ""
+
+#: includes/core/codeless_options.php:2354
+msgid "Light button hover Font Color"
+msgstr ""
+
+#: includes/core/codeless_options.php:2363
+msgid "Light button hover bg"
+msgstr ""
+
+#: includes/core/codeless_options.php:2375
+msgid "Light button hover border"
+msgstr ""
+
+#: includes/core/codeless_options.php:2388
+msgid "Shop Styling"
+msgstr ""
+
+#: includes/core/codeless_options.php:2394
+msgid "Shop Single Product Title"
+msgstr ""
+
+#: includes/core/codeless_options.php:2413
+msgid "Select the appropiate font style for single product title"
+msgstr ""
+
+#: includes/core/codeless_options.php:2424
+msgid "Shop item overlay"
+msgstr ""
+
+#: includes/core/codeless_options.php:2438
+msgid "Typography Options"
+msgstr ""
+
+#: includes/core/codeless_options.php:2443
+msgid "Body Font Style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2454
+#: includes/core/codeless_options.php:2484
+msgid "Select the appropiate font style for the body text"
+msgstr ""
+
+#: includes/core/codeless_options.php:2469
+msgid "Headings font type"
+msgstr ""
+
+#: includes/core/codeless_options.php:2496
+msgid "Heading 1 Font style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2508
+msgid "Select the appropiate font style for the h1 text"
+msgstr ""
+
+#: includes/core/codeless_options.php:2518
+msgid "Heading 2 Font style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2531
+#: includes/core/codeless_options.php:2554
+#: includes/core/codeless_options.php:2577
+#: includes/core/codeless_options.php:2600
+#: includes/core/codeless_options.php:2623
+msgid "Select the appropiate font style for this heading"
+msgstr ""
+
+#: includes/core/codeless_options.php:2541
+msgid "Heading 3 Font style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2564
+msgid "Heading 4 Font style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2587
+msgid "Heading 5 Font style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2610
+msgid "Heading 6 Font style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2635
+msgid "Footer Options"
+msgstr ""
+
+#: includes/core/codeless_options.php:2640
+msgid "Footer Columns"
+msgstr ""
+
+#: includes/core/codeless_options.php:2641
+msgid ""
+"Select how many columns do you want for the footer. Choose between 1, 2, 3 "
+"or 4 column layout."
+msgstr ""
+
+#: includes/core/codeless_options.php:2666
+msgid "Copyright Text in the end of footer"
+msgstr ""
+
+#: includes/core/codeless_options.php:2667
+msgid "Text have to be placed in the copyright bar"
+msgstr ""
+
+#: includes/core/codeless_options.php:2674
+msgid "Show Footer"
+msgstr ""
+
+#: includes/core/codeless_options.php:2682
+msgid "Show Copyright"
+msgstr ""
+
+#: includes/core/codeless_options.php:2695
+msgid "Blog Config"
+msgstr ""
+
+#: includes/core/codeless_options.php:2700
+msgid "Blog Style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2701
+msgid "Select the blog style to be used"
+msgstr ""
+
+#: includes/core/codeless_options.php:2702
+msgid "Timeline"
+msgstr ""
+
+#: includes/core/codeless_options.php:2702
+msgid "Alternate"
+msgstr ""
+
+#: includes/core/codeless_options.php:2702
+msgid "Fullscreen Innovative"
+msgstr ""
+
+#: includes/core/codeless_options.php:2710
+msgid "Post Style"
+msgstr ""
+
+#: includes/core/codeless_options.php:2711
+msgid ""
+"Select the post style to be used. You can overwrite this option in each post"
+msgstr ""
+
+#: includes/core/codeless_options.php:2712
+#: includes/core/codeless_options.php:3201
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/core/codeless_options.php:2718
+msgid "Blog Masonry Columns"
+msgstr ""
+
+#: includes/core/codeless_options.php:2754
+msgid "Single Post Layout"
+msgstr ""
+
+#: includes/core/codeless_options.php:2755
+#: includes/core/codeless_options.php:2986
+msgid "Select the default single post sidebar position"
+msgstr ""
+
+#: includes/core/codeless_options.php:2769
+msgid "Active Post Like"
+msgstr ""
+
+#: includes/core/codeless_options.php:2777
+msgid "Social Shares on Posts"
+msgstr ""
+
+#: includes/core/codeless_options.php:2793
+msgid "Show author at blog post"
+msgstr ""
+
+#: includes/core/codeless_options.php:2800
+msgid "Show date at blog post"
+msgstr ""
+
+#: includes/core/codeless_options.php:2807
+msgid "Show comments count at blog post"
+msgstr ""
+
+#: includes/core/codeless_options.php:2814
+msgid "Show tags at blog post"
+msgstr ""
+
+#: includes/core/codeless_options.php:2825
+msgid "Portfolio Config"
+msgstr ""
+
+#: includes/core/codeless_options.php:2830
+msgid "Portfolio Slug"
+msgstr ""
+
+#: includes/core/codeless_options.php:2836
+msgid "Custom fields Parameters"
+msgstr ""
+
+#: includes/core/codeless_options.php:2837
+msgid ""
+"Create unlimited custom fields. Add values in respetive single portfolio"
+msgstr ""
+
+#: includes/core/codeless_options.php:2842
+msgid "Active Portfolio Item Like"
+msgstr ""
+
+#: includes/core/codeless_options.php:2857
+msgid "Overall site layout"
+msgstr ""
+
+#: includes/core/codeless_options.php:2858
+msgid "Select overall ste pages layout"
+msgstr ""
+
+#: includes/core/codeless_options.php:2859
+msgid "Boxed"
+msgstr ""
+
+#: includes/core/codeless_options.php:2864
+msgid "Pages Default Layout"
+msgstr ""
+
+#: includes/core/codeless_options.php:2865
+msgid "Select default layout for pages. You can overwrite it in Page Options"
+msgstr ""
+
+#: includes/core/codeless_options.php:2885
+msgid "Page Container Width"
+msgstr ""
+
+#: includes/core/codeless_options.php:2898
+msgid "Page Container Width with percentage"
+msgstr ""
+
+#: includes/core/codeless_options.php:2900
+msgid ""
+"If you set the width in percentage, the page container width in pixel should "
+"be used as max-width"
+msgstr ""
+
+#: includes/core/codeless_options.php:2911
+msgid "Boxed Container Width"
+msgstr ""
+
+#: includes/core/codeless_options.php:2926
+msgid "Boxed Container Width with percentage"
+msgstr ""
+
+#: includes/core/codeless_options.php:2929
+msgid ""
+"If you set the width in percentage, the boxed container width in pixel "
+"should be used as max-width"
+msgstr ""
+
+#: includes/core/codeless_options.php:2934
+msgid "Boxed Container Margin"
+msgstr ""
+
+#: includes/core/codeless_options.php:2935
+msgid "Boxed Container Top/Bottom Margin"
+msgstr ""
+
+#: includes/core/codeless_options.php:2952
+msgid "Boxed Container Shadow"
+msgstr ""
+
+#: includes/core/codeless_options.php:2961
+msgid "Boxed Container Border"
+msgstr ""
+
+#: includes/core/codeless_options.php:2968
+msgid "Add Border for boxed container"
+msgstr ""
+
+#: includes/core/codeless_options.php:2979
+#: includes/register/register_sidebars.php:131
+msgid "Extra Side Navigation"
+msgstr ""
+
+#: includes/core/codeless_options.php:2985
+msgid "Extra Navigation Position"
+msgstr ""
+
+#: includes/core/codeless_options.php:2999
+msgid "Page Builder Row Margin Bottom"
+msgstr ""
+
+#: includes/core/codeless_options.php:3000
+msgid "Margin bottom for the ROW in Page builder"
+msgstr ""
+
+#: includes/core/codeless_options.php:3017
+msgid "Inner Page Content Padding"
+msgstr ""
+
+#: includes/core/codeless_options.php:3018
+msgid "Change padding of the inner page content"
+msgstr ""
+
+#: includes/core/codeless_options.php:3045
+msgid "Add/Edit Clients Dark Version"
+msgstr ""
+
+#: includes/core/codeless_options.php:3046
+#: includes/core/codeless_options.php:3053
+msgid "Upload clients logo here"
+msgstr ""
+
+#: includes/core/codeless_options.php:3052
+msgid "Add/Edit Clients Light Version"
+msgstr ""
+
+#: includes/core/codeless_options.php:3062
+msgid "Social Media"
+msgstr ""
+
+#: includes/core/codeless_options.php:3082
+msgid "Flickr Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:3087
+msgid "Foursquare Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:3092
+msgid "Google Plus Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:3097
+msgid "Dribbble Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:3108
+msgid "Youtube Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:3120
+msgid "Snapchat Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:3126
+msgid "Vimeo Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:3132
+msgid "Email Link"
+msgstr ""
+
+#: includes/core/codeless_options.php:3139
+msgid "Custom Sidebars"
+msgstr ""
+
+#: includes/core/codeless_options.php:3146
+msgid "Pages custom sidebars"
+msgstr ""
+
+#: includes/core/codeless_options.php:3147
+msgid "Select all pages that you want a custom sidebar (widgetized area)"
+msgstr ""
+
+#: includes/core/codeless_options.php:3155
+msgid "Categories custom sidebars"
+msgstr ""
+
+#: includes/core/codeless_options.php:3156
+msgid "Select all categories that you want a custom sidebar (widgetized area)"
+msgstr ""
+
+#: includes/core/codeless_options.php:3164
+msgid "Import / Export (Dummy Data)"
+msgstr ""
+
+#: includes/core/codeless_options.php:3170
+msgid "Default"
+msgstr ""
+
+#: includes/core/codeless_options.php:3171
+msgid "SEO"
+msgstr ""
+
+#: includes/core/codeless_options.php:3172
+msgid "Finance"
+msgstr ""
+
+#: includes/core/codeless_options.php:3173
+msgid "Agency"
+msgstr ""
+
+#: includes/core/codeless_options.php:3174
+msgid "Agency 2"
+msgstr ""
+
+#: includes/core/codeless_options.php:3176
+msgid "Business 2"
+msgstr ""
+
+#: includes/core/codeless_options.php:3177
+msgid "Business 3"
+msgstr ""
+
+#: includes/core/codeless_options.php:3178
+msgid "Business 4"
+msgstr ""
+
+#: includes/core/codeless_options.php:3179
+msgid "Business 5"
+msgstr ""
+
+#: includes/core/codeless_options.php:3180
+msgid "Creative"
+msgstr ""
+
+#: includes/core/codeless_options.php:3181
+msgid "Church"
+msgstr ""
+
+#: includes/core/codeless_options.php:3182
+msgid "Estate"
+msgstr ""
+
+#: includes/core/codeless_options.php:3183
+msgid "Education"
+msgstr ""
+
+#: includes/core/codeless_options.php:3184
+msgid "Magazine"
+msgstr ""
+
+#: includes/core/codeless_options.php:3185
+msgid "Marketing"
+msgstr ""
+
+#: includes/core/codeless_options.php:3186
+msgid "Medicine"
+msgstr ""
+
+#: includes/core/codeless_options.php:3187
+msgid "Minimal"
+msgstr ""
+
+#: includes/core/codeless_options.php:3188
+msgid "Minimal 2"
+msgstr ""
+
+#: includes/core/codeless_options.php:3189
+msgid "Micro"
+msgstr ""
+
+#: includes/core/codeless_options.php:3190
+msgid "One Page"
+msgstr ""
+
+#: includes/core/codeless_options.php:3191
+msgid "Parallax"
+msgstr ""
+
+#: includes/core/codeless_options.php:3192
+msgid "Personal"
+msgstr ""
+
+#: includes/core/codeless_options.php:3193
+msgid "Photography"
+msgstr ""
+
+#: includes/core/codeless_options.php:3195
+msgid "Portfolio 2"
+msgstr ""
+
+#: includes/core/codeless_options.php:3196
+msgid "Portfolio 3"
+msgstr ""
+
+#: includes/core/codeless_options.php:3197
+msgid "Restaurant"
+msgstr ""
+
+#: includes/core/codeless_options.php:3198
+msgid "Shop"
+msgstr ""
+
+#: includes/core/codeless_options.php:3199
+msgid "Sliding"
+msgstr ""
+
+#: includes/core/codeless_options.php:3202
+msgid "Hotel"
+msgstr ""
+
+#: includes/core/codeless_options.php:3205
+msgid "Codeless Import"
+msgstr ""
+
+#: includes/register/register_sidebars.php:10 sidebar.php:25
+msgid "Sidebar Blog"
+msgstr ""
+
+#: includes/register/register_sidebars.php:19 sidebar.php:30
+msgid "Sidebar Pages"
+msgstr ""
+
+#: includes/register/register_sidebars.php:27 sidebar.php:28
+msgid "Sidebar Portfolio"
+msgstr ""
+
+#: includes/register/register_sidebars.php:36
+msgid "Top Header Left"
+msgstr ""
+
+#: includes/register/register_sidebars.php:45
+msgid "Top Header Right"
+msgstr ""
+
+#: includes/register/register_sidebars.php:58
+msgid "Footer - column"
+msgstr ""
+
+#: includes/register/register_sidebars.php:70
+msgid "Copyright Footer Sidebar"
+msgstr ""
+
+#: includes/register/register_sidebars.php:114 sidebar.php:40
+msgid "Category"
+msgstr ""
+
+#: includes/register/register_sidebars.php:142 sidebar.php:32
+msgid "Sidebar Woocommerce"
+msgstr ""
+
+#: includes/register/register_sidebars.php:153
+msgid "Header Widgetized Area"
+msgstr ""
+
+#: includes/view/blog/comments.php:13
+msgid "Comment"
+msgstr ""
+
+#: includes/view/blog/comments.php:15 includes/view/blog/loop-index.php:154
+#: includes/view/blog/loop-index.php:217
+#: includes/view/blog/loop-second-style.php:147
+#: includes/view/blog/loop-second-style.php:176
+#: includes/view/blog/loop-timeline.php:147
+#: includes/view/blog/loop-timeline.php:165
+#: includes/view/blog/single-fullscreen.php:27
+msgid "Comments"
+msgstr ""
+
+#: includes/view/blog/comments.php:33
+msgid "Leave Reply"
+msgstr ""
+
+#: includes/view/blog/loop-fullscreen.php:62
+#: includes/view/blog/loop-grid.php:186 includes/view/blog/loop-index.php:242
+#: includes/view/blog/loop-second-style.php:193
+#: includes/view/blog/loop-timeline.php:179
+msgid "Read More"
+msgstr ""
+
+#: includes/view/blog/loop-grid.php:147 includes/view/blog/loop-grid.php:170
+#: includes/view/blog/loop-index.php:148 includes/view/blog/loop-index.php:211
+#: includes/view/blog/loop-second-style.php:141
+#: includes/view/blog/loop-second-style.php:170
+#: includes/view/blog/single-fullscreen.php:25 vc_templates/latest_blog.php:71
+#: vc_templates/latest_blog.php:106 vc_templates/recent_news.php:37
+msgid "Posted by"
+msgstr ""
+
+#: includes/view/blog/loop-grid.php:151 includes/view/blog/loop-grid.php:174
+#: includes/view/blog/loop-index.php:151 includes/view/blog/loop-index.php:214
+#: includes/view/blog/loop-second-style.php:144
+#: includes/view/blog/loop-second-style.php:173
+#: includes/view/blog/single-fullscreen.php:26 vc_templates/latest_blog.php:73
+#: vc_templates/latest_blog.php:108 vc_templates/recent_news.php:38
+msgid "On"
+msgstr ""
+
+#: includes/view/page_header.php:14
+msgid "Search Results"
+msgstr ""
+
+#: includes/view/page_header.php:16
+msgid "404 Not Found"
+msgstr ""
+
+#: includes/view/page_header.php:75
+msgid "You are here"
+msgstr ""
+
+#: includes/view/portfolio/loop-grid.php:70
+#: includes/view/portfolio/loop-grid.php:78
+#: includes/view/portfolio/loop-grid.php:82
+#: includes/view/portfolio/loop-grid.php:86
+#: includes/view/portfolio/loop-grid.php:108
+#: includes/view/portfolio/loop-grid.php:112
+#: includes/view/portfolio/loop-grid.php:116
+#: includes/view/portfolio/loop-grid.php:120
+#: includes/view/portfolio/loop-grid.php:124
+#: includes/view/portfolio/loop-grid.php:146
+#: includes/view/portfolio/loop-grid.php:171
+#: includes/view/portfolio/loop-masonry.php:85
+#: includes/view/portfolio/loop-masonry.php:106
+#: includes/view/portfolio/loop-masonry.php:128
+#: includes/view/portfolio/loop-masonry.php:153
+#: includes/view/portfolio/single-container.php:41
+#: includes/view/portfolio/single-container.php:123
+#: includes/view/portfolio/single-container.php:217
+#: includes/view/portfolio/single-floating.php:37
+msgid "Portfolio Image"
+msgstr ""
+
+#: includes/view/portfolio/loop-grid.php:173
+#: includes/view/portfolio/loop-masonry.php:155
+msgid "View"
+msgstr ""
+
+#: includes/view/portfolio/single-container.php:15
+#: includes/view/portfolio/single-container.php:92
+#: includes/view/portfolio/single-container.php:168
+#: includes/view/portfolio/single-container.php:196
+#: includes/view/portfolio/single-floating.php:13
+#: includes/view/portfolio/single-floating.php:48
+#: includes/view/portfolio/single-fullwidth.php:34
+#: includes/view/portfolio/single-gallery.php:20
+msgid "Project Description"
+msgstr ""
+
+#: includes/view/portfolio/single-container.php:19
+#: includes/view/portfolio/single-container.php:96
+#: includes/view/portfolio/single-container.php:172
+#: includes/view/portfolio/single-container.php:200
+#: includes/view/portfolio/single-floating.php:17
+#: includes/view/portfolio/single-floating.php:52
+#: includes/view/portfolio/single-fullwidth.php:38
+#: includes/view/portfolio/single-gallery.php:24
+msgid "Project Details"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:386
+#: plugins/class-tgm-plugin-activation.php:827
+#: plugins/class-tgm-plugin-activation.php:2533
+#: plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:387
+#: plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:388
+#: plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:934
+#: plugins/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1121
+#: plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: portfolio.php:38 vc_templates/faq.php:28
+msgid "View All"
+msgstr ""
+
+#: search.php:43
+msgid "Your search did not match any entries"
+msgstr ""
+
+#: search.php:45
+msgid "Suggestions"
+msgstr ""
+
+#: search.php:47
+msgid "Make sure all words are spelled correctly"
+msgstr ""
+
+#: search.php:48
+msgid "Try different keywords"
+msgstr ""
+
+#: search.php:49
+msgid "Try more general keywords"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: single-portfolio.php:34
+msgid "Related Items"
+msgstr ""
+
+#: vc_templates/clients.php:43
+msgid "Client Item"
+msgstr ""
+
+#: vc_templates/recent_news.php:35
+msgid "News Image"
+msgstr ""
+
+#: vc_templates/recent_news.php:53
+msgid "Recent News Image"
+msgstr ""
+
+#: vc_templates/services_media.php:32
+msgid "Media Image"
+msgstr ""
+
+#: vc_templates/services_medium.php:75
+msgid "Services Image"
+msgstr ""
+
+#: vc_templates/single_testimonial.php:33
+msgid "Testimonial Image"
+msgstr ""
+
+#: vc_templates/staff.php:42 vc_templates/staff_carousel.php:57
+msgid "Team Image"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:40 vc_templates/vc_tab.php:10
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:30
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:39
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.codeless.co/specular"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Specular is a multi-purpose wordpress theme. Codeless Themes are simple and "
+"powerful. Create awesome portfolio, corporate, business, restaurant and much "
+"much more pages with this theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Codeless"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.codeless.co"
+msgstr ""
