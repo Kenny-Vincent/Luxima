@@ -18,34 +18,35 @@
 .recent_news.events .blog-item:hover .link {
   background: #e30b17;
 }
+
 /*-Custom color text button slider 1-*/
-.header_11 nav li > a:hover,
-.header_11 nav li.current-menu-item > a,
-.header_11 nav li.current-menu-parent > a,
-.header_10 nav li > a:hover,
-.header_10 nav li.current-menu-item > a,
-.header_10 nav li.current-menu-parent > a,
-.header_9 nav li > a:hover,
-.header_9 nav li.current-menu-item > a,
-.header_9 nav li.current-menu-parent > a,
-.header_8 nav li > a:hover,
-.header_8 nav li.current-menu-item > a,
-.header_8 nav li.current-menu-parent > a,
-.header_7 nav li > a:hover,
-.header_7 nav li.current-menu-item > a,
-.header_7 nav li.current-menu-parent > a,
-.header_6 nav li > a:hover,
-.header_6 nav li.current-menu-item > a,
-.header_6 nav li.current-menu-parent > a,
-.header_5 nav li > a:hover,
-.header_5 nav li.current-menu-item > a,
-.header_5 nav li.current-menu-parent > a,
-.header_3 nav li > a:hover,
-.header_3 nav li.current-menu-item > a,
-.header_3 nav li.current-menu-parent > a,
-.header_2 nav li > a:hover,
-.header_2 nav li.current-menu-item > a,
-.header_2 nav li.current-menu-parent > a,
+.header_11 nav li>a:hover,
+.header_11 nav li.current-menu-item>a,
+.header_11 nav li.current-menu-parent>a,
+.header_10 nav li>a:hover,
+.header_10 nav li.current-menu-item>a,
+.header_10 nav li.current-menu-parent>a,
+.header_9 nav li>a:hover,
+.header_9 nav li.current-menu-item>a,
+.header_9 nav li.current-menu-parent>a,
+.header_8 nav li>a:hover,
+.header_8 nav li.current-menu-item>a,
+.header_8 nav li.current-menu-parent>a,
+.header_7 nav li>a:hover,
+.header_7 nav li.current-menu-item>a,
+.header_7 nav li.current-menu-parent>a,
+.header_6 nav li>a:hover,
+.header_6 nav li.current-menu-item>a,
+.header_6 nav li.current-menu-parent>a,
+.header_5 nav li>a:hover,
+.header_5 nav li.current-menu-item>a,
+.header_5 nav li.current-menu-parent>a,
+.header_3 nav li>a:hover,
+.header_3 nav li.current-menu-item>a,
+.header_3 nav li.current-menu-parent>a,
+.header_2 nav li>a:hover,
+.header_2 nav li.current-menu-item>a,
+.header_2 nav li.current-menu-parent>a,
 .codeless_slider .swiper-slide .buttons.colors-light a.colored:hover *,
 .services_steps .icon_wrapper i,
 .testimonial_carousel .item .param span,
@@ -61,13 +62,13 @@
 #portfolio-filter ul li.active a,
 .content_portfolio.fullwidth #portfolio-filter ul li.active a,
 a:hover,
-.header_1 nav li.current-menu-item > a,
+.header_1 nav li.current-menu-item>a,
 .blog-article h1 a:hover,
 .blog-article.timeline-style .content .quote i,
 .header_1 nav li.current-menu-item::after,
-.header_1 nav li > a:hover,
+.header_1 nav li>a:hover,
 .header_1 nav li:hover::after,
-header#header .header_tools > a:hover,
+header#header .header_tools>a:hover,
 footer#footer a:hover,
 aside ul li:hover::after,
 .highlights {
@@ -76,10 +77,10 @@ aside ul li:hover::after,
 
 /*-Custom background-color button slider 1-*/
 .codeless_slider .swiper-slide .buttons a.bordered:hover,
-.header_12 .full_nav_menu nav ul > li:hover,
-.header_12 .full_nav_menu nav ul > li.current-menu-item,
-.header_12 .full_nav_menu nav ul > li.current-menu-parent,
-.header_12 .full_nav_menu nav ul > li:hover {
+.header_12 .full_nav_menu nav ul>li:hover,
+.header_12 .full_nav_menu nav ul>li.current-menu-item,
+.header_12 .full_nav_menu nav ul>li.current-menu-parent,
+.header_12 .full_nav_menu nav ul>li:hover {
   background-color: #e30b17 !important;
 }
 
@@ -97,4 +98,11 @@ aside ul li:hover::after,
 .light {
   display: block !important;
   visibility: visible !important;
+}
+
+/* Background section Réserver Home Page */
+
+.parallax_section {
+  background-image: url('assets/img/focus-photo-of-camera.png') !important;
+  background-size: cover !important;
 }
